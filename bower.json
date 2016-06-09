@@ -1,0 +1,23 @@
+{
+  "name": "ixp-www",
+  "authors": [
+    "Barry O'Donovan <barry@opensolutions.ie>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.4",
+    "jquery-colorbox": "colorbox#^1.6.4"
+  }
+}
