@@ -56,7 +56,10 @@ END_HEADER;
 </table>
 
 
-
+<br><br>
+<p>
+    <em>This data is available <a href="http://www.ixpmanager.org/js/ixp-manager-users.json">as JSON from here</a>.</em>
+</p>
 
 
 
