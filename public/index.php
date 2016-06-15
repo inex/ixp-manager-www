@@ -28,10 +28,17 @@ END_HEADER;
     </p>
       </div>
 
+    <div class="alert alert-info">
+        <strong>We're hiring!</strong> Island Bridge Networks are looking for a full-time PHP developer to work on
+        IXP Manager in their Dublin, Ireland offices. See <a href="http://www.islandbridgenetworks.ie/jobs.html">their
+        job annoucement</a> for details.
+    </div>
+
+
       <div class="row marketing">
         <div class="col-lg-12">
           <h2>About</h2>
-          
+
           <p>
               We started building IXP Manager at <a href="https://www.inex.ie/">INEX</a> nearly 10 years ago (2007). Over that time it has changed a lot, but always for the better and always to help us run INEX efficiently and with low overhead. Three of our key requirements as an IXP are <b>security, consistency and reliability</b>. IXP Manager has been designed to help us meet these.
           </p>
@@ -51,7 +58,7 @@ END_HEADER;
           </ol>
 
           <h2>Customer Portal Features</h2>
-          
+
           <p>
               By using IXP Manager, you can give your customers a portal with the following features:
           </p>
@@ -73,9 +80,9 @@ END_HEADER;
           <p>
               Additional features in addition to the above include: mailing list management; update NOC / peering / contact details; peering matrices; other member details; documentation; and user management.
           </p>
-          
+
           <h2>Administrative / Automation Features</h2>
-          
+
           <p>
               Just some of the features that will help you manage your IXP include:
           </p>
