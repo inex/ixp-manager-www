@@ -199,6 +199,17 @@
             "since": 0
         },
         {
+            "name": "IXLeeds",
+            "shortname": "IXLeeds",
+            "city": "Leeks",
+            "country": "UK",
+            "cc": "UK",
+            "url": "http://ixleeds.net/",
+            "ixf_id": 0,
+            "gps": [53.7924,-1.5405],
+            "since": 2010
+        },
+        {
             "name": "Neutral Internet Exchange Valencia",
             "shortname": "NIXVAL",
             "city": "Valencia",
