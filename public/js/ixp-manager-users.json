@@ -221,6 +221,17 @@
             "since": 2010
         },
         {
+            "name": "Midwest-IX Indianapolis",
+            "shortname": "M-IX-Indy",
+            "city": "Indianapolis, Indiana",
+            "country": "US",
+            "cc": "US",
+            "url": "http://www.midwest-ix.com/",
+            "ixf_id": 0,
+            "gps": [39.7596476,-86.1724072],
+            "since": 0
+        },
+        {
             "name": "Neutral Internet Exchange Valencia",
             "shortname": "NIXVAL",
             "city": "Valencia",
