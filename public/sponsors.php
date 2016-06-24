@@ -33,6 +33,9 @@
       <a href="http://www.internetsociety.org/">
           <img src="images/logos/isoc.png" width="200"/>
       </a>
+      <a href="https://www.netflix.com/">
+          <img src="images/logos/netflix.png" width="200"/>
+      </a>
       <a href="https://www.swissix.ch/">
           <img src="images/logos/swissix.png" width="200"/>
       </a>
