@@ -23,7 +23,7 @@ END_HEADER;
       </p>
       <p>
         <a class="btn btn-success" href="users.php" role="button"><span id="numixps"></span>Existing Users</a>
-        <a class="btn btn-success" href="https://github.com/opensolutions/ViMbAdmin"  role="button">GitHub</a>
+        <a class="btn btn-success" href="https://github.com/inex/IXP-Manager"  role="button">GitHub</a>
         <a class="btn btn-success" href="https://twitter.com/ixpmanager" role="button">@ixpmanager</a>
     </p>
       </div>
