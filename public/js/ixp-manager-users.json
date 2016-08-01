@@ -45,6 +45,17 @@
             "since": 0
         },
         {
+            "name": "Cameroon Internet Exchange Point",
+            "shortname": "CAMIX",
+            "city": "Yaounde",
+            "country": "Cameroon",
+            "cc": "CM",
+            "url": "",
+            "ixf_id": 0,
+            "gps": [3.8302938,11.3703663],
+            "since": 2016
+        },
+        {
             "name": "Chicago IX - United Internet Exchange",
             "shortname": "ChIX",
             "city": "Chicago",
