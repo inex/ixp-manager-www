@@ -13,8 +13,7 @@ END_HEADER;
 
     <div class="jumbotron">
       <h1>
-          IXP Manager
-          <img class="pull-right" width="150" src="images/inex-logo.gif">
+          <img class="center-block" src="images/logos/ixp-manager.png">
       </h1>
       <p class="lead">
         <b>IXP Manager</b> is a full stack management system for Internet eXchange Points (IXPs)
