@@ -298,6 +298,17 @@
             "since": 0
         },
         {
+            "name": "Salzburg Internet eXchange",
+            "shortname": "SAIX",
+            "city": "Salzburg",
+            "country": "Austria",
+            "cc": "AT",
+            "url": "https://www.saix.at/",
+            "ixf_id": 0,
+            "gps": [47.79222,13.01056],
+            "since": 2016
+        },
+        {
             "name": "San Francisco Metropolitan Internet Exchange",
             "shortname": "SFMIX",
             "city": "San Francisco",
