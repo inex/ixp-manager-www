@@ -166,6 +166,17 @@
             "since": 2008
         },
         {
+            "name": "IX Liverpool",
+            "shortname": "IXLiverpool",
+            "city": "Liverpool",
+            "country": "UK",
+            "cc": "UK",
+            "url": "https://www.ixliverpool.net/",
+            "ixf_id": 1302,
+            "gps": [53.395804,-2.9803111],
+            "since": 2016
+        },
+        {
             "name": "Kenya Internet Exchange Point",
             "shortname": "KIXP",
             "city": null,
