@@ -83,7 +83,7 @@
             "city": "Dortmund",
             "country": "Germany",
             "cc": "DE",
-            "url": "https://www.do-ix.net/en/",
+            "url": "https://www.do-ix.net/",
             "ixf_id": 0,
             "gps": [51.507587,7.4358395],
             "since": 0
@@ -234,7 +234,7 @@
         {
             "name": "IXLeeds",
             "shortname": "IXLeeds",
-            "city": "Leeks",
+            "city": "Leeds",
             "country": "UK",
             "cc": "UK",
             "url": "http://ixleeds.net/",
@@ -267,7 +267,7 @@
         {
             "name": "Northwest Access Exchange",
             "shortname": "NWAX",
-            "city": "Oregan",
+            "city": "Oregon",
             "country": "USA",
             "cc": "US",
             "url": "http://www.nwax.net/",
@@ -276,7 +276,7 @@
             "since": 0
         },
         {
-            "name": "Norwegian Internet eXhange",
+            "name": "Norwegian Internet eXchange",
             "shortname": "NIX",
             "city": null,
             "country": "Norway",
