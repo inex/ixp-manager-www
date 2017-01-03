@@ -375,6 +375,17 @@
             "since": 0
         },
         {
+            "name": "Tanzania Internet eXchange Point",
+            "shortname": "TIX",
+            "city": "Dar es Salaam",
+            "country": "Tanzania",
+            "cc": "TZ",
+            "url": "http://www.tispa.or.tz/",
+            "ixf_id": 0,
+            "gps": [-6.8138351,39.2893366],
+            "since": 0
+        },
+        {
             "name": "The Uganda Internet eXchange Point",
             "shortname": "UIXP",
             "city": null,
