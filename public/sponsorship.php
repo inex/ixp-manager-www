@@ -31,7 +31,7 @@ a &quot;sponsors of&quot; logo for your own website, Twitter shoutouts, etc.</i>
 
 <ul>
     <li><b>Cost:</b> >= &euro;25,000</li>
-    <li><b>Limt:</b> Two per year</li>
+    <li><b>Limit:</b> Two per year</li>
 </ul>
 
 <p>
@@ -43,7 +43,7 @@ a &quot;sponsors of&quot; logo for your own website, Twitter shoutouts, etc.</i>
 
 <ul>
     <li><b>Cost:</b> >= &euro;15,000</li>
-    <li><b>Limt:</b> Five per year</li>
+    <li><b>Limit:</b> Five per year</li>
 </ul>
 
 <p>
@@ -55,7 +55,7 @@ a &quot;sponsors of&quot; logo for your own website, Twitter shoutouts, etc.</i>
 
 <ul>
     <li><b>Cost:</b> >= &euro;10,000</li>
-    <li><b>Limt:</b> No limit</li>
+    <li><b>Limit:</b> No limit</li>
 </ul>
 
 <p>
@@ -67,7 +67,7 @@ a &quot;sponsors of&quot; logo for your own website, Twitter shoutouts, etc.</i>
 
 <ul>
     <li><b>Cost:</b> >= &euro;5,000</li>
-    <li><b>Limt:</b> No limit</li>
+    <li><b>Limit:</b> No limit</li>
 </ul>
 
 <p>
@@ -79,7 +79,7 @@ a &quot;sponsors of&quot; logo for your own website, Twitter shoutouts, etc.</i>
 
 <ul>
     <li><b>Cost:</b> < &euro;5,000</li>
-    <li><b>Limt:</b> No limit</li>
+    <li><b>Limit:</b> No limit</li>
 </ul>
 
 <p>
