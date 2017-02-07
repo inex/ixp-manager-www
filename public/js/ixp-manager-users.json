@@ -287,6 +287,17 @@
             "since": 0
         },
         {
+            "name": "Network Service Provider Internet eXchange Point",
+            "shortname": "NSPIXP",
+            "city": "Toyko",
+            "country": "Japan",
+            "cc": "JP",
+            "url": "https://ixpmanager.wide.ad.jp/",
+            "ixf_id": 0,
+            "gps": [35.687757, 139.764548],
+            "since": 0
+        },
+        {
             "name": "Phoenix-IX",
             "shortname": "Phoenix-IX",
             "city": "Arizona",
