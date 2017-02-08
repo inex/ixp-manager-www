@@ -67,6 +67,17 @@
             "since": 0
         },
         {
+            "name": "Croatian Internet Exchange",
+            "shortname": "CIX",
+            "city": "Zagreb",
+            "country": "Croatia",
+            "cc": "HR",
+            "url": "http://www.cix.hr/",
+            "ixf_id": 0,
+            "gps": [45.7923629,15.9673472],
+            "since": 0
+        },
+        {
             "name": "Danish Internet Exchange Point ",
             "shortname": "DIX",
             "city": "",
