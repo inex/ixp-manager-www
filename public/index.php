@@ -27,12 +27,14 @@ END_HEADER;
     </p>
       </div>
 
+<!--
     <div class="alert alert-info">
         <strong>We're hiring!</strong> Island Bridge Networks are looking for a full-time PHP developer to work on
         IXP Manager in their Dublin, Ireland offices. See <a href="http://www.islandbridgenetworks.ie/jobs.html">their
         job annoucement</a> for details.
     </div>
 
+-->
 
       <div class="row marketing">
         <div class="col-lg-12">
