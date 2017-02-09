@@ -2,8 +2,8 @@
     </div>
       <div class="footer">
         <p>
-          &copy; Copyright Internet Neutral Exchange Association Limited
-            (<a href="https://www.inex.ie/">INEX</a>), Dublin, Ireland 2016
+          &copy; Copyright Internet Neutral Exchange Association Company Limited by Guarantee
+            (<a href="https://www.inex.ie/">INEX</a>), Dublin, Ireland <?php echo date('Y') ?>
           
         </p>
       </div>
