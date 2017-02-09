@@ -122,7 +122,7 @@ END_HEADER;
           <br><br>
         <h4>Copyright, License and Redistribution</h4>
         <p>
-          &copy; Copyright 2011 - <?php echo date('Y'); ?> Internet Neutral Exchange Association Limited (INEX), Dublin, Ireland.
+          &copy; Copyright 2011 - <?php echo date('Y'); ?> Internet Neutral Exchange Association Company Limited by Guarantee (INEX), Dublin, Ireland.
         </p>
         <p class="small">
           IXP Manager is free software: you can redistribute it and/or modify it under the terms of the
