@@ -2,7 +2,7 @@
     $active = 'users';
 
     $additionalHeader = <<<END_HEADER
-    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
+    <link rel="stylesheet" href="css/leaflet/v0.7.7/leaflet.css" />
     <link rel="stylesheet" href="css/map.css" />
 END_HEADER;
 
@@ -12,7 +12,7 @@ END_HEADER;
     <script>
         var ixps = {$ixps};
     </script>
-    <script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
+    <script src="js/leaflet/v0.7.7/leaflet.js"></script>
     <script src="js/map.js"></script>
 END_HEADER;
 
