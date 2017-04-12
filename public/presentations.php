@@ -10,6 +10,26 @@
     Barry O&#8217;Donovan and Nick Hilliard routinely give talks and workshops on IXP Manager. We&#8217;ve published the more recent ones below and, where video exists, we&#8217;ll also link to that.
 </p>
 
+<h3>2017</h3>
+<br>
+
+<h4>
+    30th Euro-IX Forum - Lightning Talks.<br />
+    <small>Barcelona, Spain. April 9-11th 2017.</small>
+</h4>
+
+<ul>
+    <li>
+        <a href="media/2017/201704-euroix30-ixpmanager-xconnects.pdf">
+            Cross Connect / Patch Panel Management
+        </a>:
+        A ~5 minute lightning talk to introduce the new cross connect / patch panel management feature.
+        The <a href="https://ixp-manager.readthedocs.io/en/latest/features/patch-panels/">official
+        documentation for this feature</a> would be recommended reading.
+    </li>
+</ul>
+<br>
+
 <h3>2016</h3>
 <br>
 
