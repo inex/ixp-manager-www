@@ -51,7 +51,7 @@
                   <li> <a href="/commercial.php">Commercial Support</a> </li>
                   <li role="separator" class="divider"></li>
                   <li> <a href="https://github.com/inex/IXP-Manager/wiki" target="_blank">V3 Documentation &raquo;</a> </li>
-                  <li> <a href="https://ixp-manager.readthedocs.io/en/latest/" target="_blank">V4 Documentation &raquo;</a> </li>
+                  <li> <a href="http://docs.ixpmanager.org/" target="_blank">V4 Documentation &raquo;</a> </li>
               </ul>
           </li>
 
