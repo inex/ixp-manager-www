@@ -14,6 +14,23 @@
 <br>
 
 <h4>
+    GPF 12.0 - Global Peering Forum<br />
+    <small>New York City, USA. April 24-27th 2017.</small>
+</h4>
+
+<ul>
+    <li>
+        <a href="media/2017/201704-gpf12-ixpmanager.pdf">
+            IXP Manager Update
+        </a>:
+        As the project turns ten this year, it is a fitting time to deliver our first
+        States-side presentation and update the community on some major
+        milestone goals.
+    </li>
+</ul>
+<br>
+
+<h4>
     30th Euro-IX Forum - Lightning Talks.<br />
     <small>Barcelona, Spain. April 9-11th 2017.</small>
 </h4>
