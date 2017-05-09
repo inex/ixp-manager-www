@@ -67,6 +67,17 @@
             "since": 0
         },
         {
+            "name": "Community-IX",
+            "shortname": "Community-IX",
+            "city": "Berlin",
+            "country": "Germany",
+            "cc": "DE",
+            "url": "https://www.community-ix.de/",
+            "ixf_id": 684,
+            "gps": [52.52,13.40495],
+            "since": 2016
+        },
+        {
             "name": "Croatian Internet Exchange",
             "shortname": "CIX",
             "city": "Zagreb",
