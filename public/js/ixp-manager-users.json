@@ -67,6 +67,17 @@
             "since": 0
         },
         {
+            "name": "China Internet eXchange",
+            "shortname": "CNIX",
+            "city": "Beijing",
+            "country": "China",
+            "cc": "CN",
+            "url": "http://www.cnix.com.cn/",
+            "ixf_id": 604,
+            "gps": [39.90420913696289,116.40739440917969],
+            "since": 2017
+        },        
+        {
             "name": "Community-IX",
             "shortname": "Community-IX",
             "city": "Berlin",
