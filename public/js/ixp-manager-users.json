@@ -276,6 +276,17 @@
             "since": 2010
         },
         {
+            "name": "Massachusetts Internet Exchange",
+            "shortname": "MASS IX",
+            "city": "Boston",
+            "country": "US",
+            "cc": "US",
+            "url": "http://www.mass-ix.net/",
+            "ixf_id": 665,
+            "gps": [42.3601,-71.0589],
+            "since": 2017
+        },
+        {
             "name": "Midwest-IX Indianapolis",
             "shortname": "M-IX-Indy",
             "city": "Indianapolis, Indiana",
