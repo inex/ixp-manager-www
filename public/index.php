@@ -21,7 +21,7 @@ END_HEADER;
         both teaches and implements best practice.
       </p>
       <p>
-        <a class="btn btn-success" href="users.php" role="button"><span id="numixps"></span>Existing Users</a>
+        <a class="btn btn-success" href="users.php" role="button">Powering <span id="numixps"></span> IXPs</a>
         <a class="btn btn-success" href="https://github.com/inex/IXP-Manager"  role="button">GitHub</a>
         <a class="btn btn-success" href="https://twitter.com/ixpmanager" role="button">@ixpmanager</a>
     </p>
