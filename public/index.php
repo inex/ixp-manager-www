@@ -72,7 +72,7 @@ END_HEADER;
                   broken down by IPv4/IPv6.
               </li>
               <li>
-                  <b>Peering manager</b> - as an IXP grows, it becomes more difficult to work out who you do and do peer with. Especially when route servers are used and not all members sue them. Our <em>Peering Manager</em> tool shows members who they do not peer with in any way and provides the ability to send pre-formatted peering requests.
+                  <b>Peering manager</b> - as an IXP grows, it becomes more difficult to work out who you do and do peer with. Especially when route servers are used and not all members use them. Our <em>Peering Manager</em> tool shows members who they do not peer with in any way and provides the ability to send pre-formatted peering requests.
               </li>
               <li>
                   <b>Route Server Prefix Analysis Tool</b> - strict prefix filtering is a requirement on modern route servers at IXPs. However, this can cause confusion for networks that have many prefixes or deaggregate their prefixes. This tool will show your customers what prefixes are being accepted or rejected by the route servers (and also what prefixes would be accepted if advertised).
