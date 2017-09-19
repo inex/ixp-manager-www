@@ -63,6 +63,10 @@
       <h3>BRONZE SPONSORS</h3>
   </div>
   <div class="col-sm-8 sponsor-div">
+      <a href="https://www.gr-ix.gr/">
+          <img src="images/logos/grix.png" width="150"/>
+      </a>
+      &nbsp;&nbsp;&nbsp;&nbsp;
       <a href="http://www.uio.no/tjenester/it/nett/fastnett/nix/info-english-short.html">
           <img src="images/logos/nix.png" width="100"/>
       </a>
