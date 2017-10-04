@@ -12,7 +12,18 @@
             "since": 0
         },
         {
-            "name": "Arusha Internet eXchange Point.",
+            "name": "APLIX.PL",
+            "shortname": "APLIX",
+            "city": "Gdynia",
+            "country": "Poland",
+            "cc": "PL",
+            "url": "http://aplix.pl/",
+            "ixf_id": 0,
+            "gps": [54.433098,18.571905],
+            "since": 2017
+        },
+        {
+            "name": "Arusha Internet eXchange Point",
             "shortname": "AIXP",
             "city": "Arusha",
             "country": "Tanzania",
