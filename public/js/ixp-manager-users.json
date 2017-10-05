@@ -133,9 +133,20 @@
             "since": 0
         },
         {
+            "name": "FIXO",
+            "shortname": "FIXO",
+            "city": "Oslo",
+            "country": "Norway",
+            "cc": "NO",
+            "url": "http://fixo.no/",
+            "ixf_id": 0,
+            "gps": [59.9247264,10.8079891],
+            "since": 0
+        },
+        {
             "name": "Florida Internet Exchange",
             "shortname": "FL-IX",
-            "city": "Florida   ",
+            "city": "Florida",
             "country": "USA",
             "cc": "US",
             "url": "http://www.fl-ix.net/",
@@ -405,6 +416,17 @@
             "url": "http://www.sixp.gm/",
             "ixf_id": 0,
             "gps": [13.4394321,-16.7086424],
+            "since": 0
+        },
+        {
+            "name": "Slovenian Internet eXchange",
+            "shortname": "SIX",
+            "city": "Ljubljana",
+            "country": "Slovenia",
+            "cc": "SI",
+            "url": "https://www.six.si/",
+            "ixf_id": 0,
+            "gps": [46.050126,14.458125],
             "since": 0
         },
         {
