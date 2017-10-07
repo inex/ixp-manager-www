@@ -254,6 +254,17 @@
             "since": 0
         },
         {
+            "name": "KleyReX Internet Exchange",
+            "shortname": "KleyRex",
+            "city": "Frankfurt,
+            "country": "Germany",
+            "cc": "DE",
+            "url": "http://www.kleyrex.net/",
+            "ixf_id": 0,
+            "gps": [50.098826,8.6330878],
+            "since": 0
+        },
+        {
             "name": "LONAP Limited",
             "shortname": "LONAP",
             "city": "London",
