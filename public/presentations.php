@@ -13,6 +13,22 @@
 <h3>2017</h3>
 <br>
 
+
+<h4>
+    NLNOG Day 2017<br />
+    <small>Amsterdam, Netherlands.September 8th 2017.</small>
+</h4>
+
+<ul>
+    <li>
+        <a href="media/2017/201709-nlnog2017-automation-with-ixp-manaher.pdf">
+            Automation with IXP Manager
+        </a>
+    </li>
+</ul>
+<br>
+
+
 <h4>
     GPF 12.0 - Global Peering Forum<br />
     <small>New York City, USA. April 24-27th 2017.</small>
