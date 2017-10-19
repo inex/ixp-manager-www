@@ -210,6 +210,17 @@
             "since": 0
         },
         {
+            "name": "InterLAN Internet Exchange",
+            "shortname": "InterLAN",
+            "city": "Bucharest",
+            "country": "Romania",
+            "cc": "RO",
+            "url": "http://www.interlan.ro/",
+            "ixf_id": 37,
+            "gps": [44.481718,26.120596],
+            "since": 2017
+        },
+        {
             "name": "Internet Neutral Exchange Association Company Limited by Guarantee",
             "shortname": "INEX",
             "city": "Dublin",
