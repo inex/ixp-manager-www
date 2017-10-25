@@ -72,7 +72,7 @@
       </a>
       &nbsp;&nbsp;&nbsp;&nbsp;
       <a href="http://www.sthix.net/">
-          <img src="images/logos/sthix.png" width="100"/>
+          <img src="images/logos/sthix.png" width="150"/>
       </a>
   </div>
 </div>
