@@ -18,7 +18,7 @@
             "country": "Poland",
             "cc": "PL",
             "url": "http://aplix.pl/",
-            "ixf_id": 0,
+            "ixf_id": 721,
             "gps": [54.433098,18.571905],
             "since": 2017
         },
@@ -40,7 +40,7 @@
             "country": "The Netherlands",
             "cc": "NL",
             "url": "https://as-ix.net/",
-            "ixf_id": 0,
+            "ixf_id": 722,
             "gps": [52.543666,5.703021],
             "since": 0
         },
@@ -392,7 +392,7 @@
             "country": "Spain",
             "cc": "ES",
             "url": "https://www.nixval.com/en/",
-            "ixf_id": 0,
+            "ixf_id": 724,
             "gps": [39.5195551,-0.4693843],
             "since": 0
         },
@@ -480,7 +480,7 @@
             "country": "Gambia",
             "cc": "GM",
             "url": "http://www.sixp.gm/",
-            "ixf_id": 0,
+            "ixf_id": 723,
             "gps": [13.4394321,-16.7086424],
             "since": 0
         },
