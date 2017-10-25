@@ -84,7 +84,7 @@
             "country": "Cameroon",
             "cc": "CM",
             "url": "",
-            "ixf_id": 0,
+            "ixf_id": 528,
             "gps": [3.8302938,11.3703663],
             "since": 2016
         },
@@ -161,7 +161,7 @@
             "country": "South Africa",
             "cc": "ZA",
             "url": "https://wiki.inx.net.za/display/pub/DINX+-+Durban+Internet+Exchange",
-            "ixf_id": 0,
+            "ixf_id": 487,
             "gps": [-29.778832,30.9897693],
             "since": 0
         },
