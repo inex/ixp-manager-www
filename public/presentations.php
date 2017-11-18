@@ -15,15 +15,47 @@
 
 
 <h4>
+    RIPE 75<br />
+    <small>Dubai, UAE. October 2017.</small>
+</h4>
+
+<ul>
+    <li>
+        <a href="media/2017/201710-ripe75.pdf">
+            IXP Automation
+        </a>
+        [<a href="https://ripe75.ripe.net/archives/video/125">video</a>]
+    </li>
+</ul>
+<br>
+
+
+<h4>
+    31st Euro-IX Forum<br />
+    <small>Bratislava, Slovakia. October 2017.</small>
+</h4>
+
+<ul>
+    <li>
+        <a href="media/2017/inex-euro-ix-ixp-automation-2017-10-17.pdf">
+            IXP Automation
+        </a>
+    </li>
+</ul>
+<br>
+
+
+<h4>
     NLNOG Day 2017<br />
     <small>Amsterdam, Netherlands.September 8th 2017.</small>
 </h4>
 
 <ul>
     <li>
-        <a href="media/2017/201709-nlnog2017-automation-with-ixp-manaher.pdf">
+        <a href="media/2017/201709-nlnog2017-automation-with-ixp-manager.pdf">
             Automation with IXP Manager
-        </a>
+        </a> 
+        [<a href="https://youtu.be/UAoLASkndaY">video</a>]
     </li>
 </ul>
 <br>
