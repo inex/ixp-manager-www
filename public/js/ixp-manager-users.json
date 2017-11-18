@@ -386,6 +386,17 @@
             "since": 0
         },
         {
+            "name": "Nepal Internet Exchange",
+            "shortname": "NPIX",
+            "city": "Kathmandu",
+            "country": "Nepal",
+            "cc": "NP",
+            "url": "http://www.npix.net.np/",
+            "ixf_id": 53,
+            "gps": [ 27.7, 85.333298 ],
+            "since": 0
+        },
+        {
             "name": "Neutral Internet Exchange Valencia",
             "shortname": "NIXVAL",
             "city": "Valencia",
