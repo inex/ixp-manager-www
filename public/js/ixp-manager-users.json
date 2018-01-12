@@ -265,6 +265,50 @@
             "since": 2008
         },
         {
+            "name": "IX-Cape Town at NAPAfrica",
+            "shortname": "IX-Cape Town",
+            "city": "Cape Town",
+            "country": "South Africa",
+            "cc": "ZA",
+            "url": "https://www.napafrica.net/napafrica-traffic/cape-town-internet-exchange/",
+            "ixf_id": 648,
+            "gps": [-33.9288777,18.4524126],
+            "since": 0
+        },
+        {
+            "name": "IX-Durban at NAPAfrica",
+            "shortname": "IX-Durban",
+            "city": "Durban",
+            "country": "South Africa",
+            "cc": "ZA",
+            "url": "https://www.napafrica.net/napafrica-traffic/durban-internet-exchange/",
+            "ixf_id": 649,
+            "gps": [-29.8611731,30.9888292],
+            "since": 0
+        },
+        {
+            "name": "IX-Johannesburg at NAPAfrica",
+            "shortname": "IX-Johannesburg",
+            "city": "Johannesburg",
+            "country": "South Africa",
+            "cc": "ZA",
+            "url": "https://www.napafrica.net/napafrica-traffic/johannesburg-internet-exchange/",
+            "ixf_id": 351,
+            "gps": [-26.1900482,28.0289667],
+            "since": 0
+        },
+        {
+            "name": "IXLeeds",
+            "shortname": "IXLeeds",
+            "city": "Leeds",
+            "country": "UK",
+            "cc": "UK",
+            "url": "http://ixleeds.net/",
+            "ixf_id": 281,
+            "gps": [53.7924,-1.5405],
+            "since": 2010
+        },
+        {
             "name": "IX Liverpool",
             "shortname": "IXLiverpool",
             "city": "Liverpool",
@@ -318,50 +362,6 @@
             "ixf_id": 18,
             "gps": [51.5149822,-0.1063719],
             "since": 2014
-        },
-        {
-            "name": "IX-Cape Town at NAPAfrica",
-            "shortname": "IX-Cape Town",
-            "city": "Cape Town",
-            "country": "South Africa",
-            "cc": "ZA",
-            "url": "https://www.napafrica.net/napafrica-traffic/cape-town-internet-exchange/",
-            "ixf_id": 648,
-            "gps": [-33.9288777,18.4524126],
-            "since": 0
-        },
-        {
-            "name": "IX-Durban at NAPAfrica",
-            "shortname": "IX-Durban",
-            "city": "Durban",
-            "country": "South Africa",
-            "cc": "ZA",
-            "url": "https://www.napafrica.net/napafrica-traffic/durban-internet-exchange/",
-            "ixf_id": 649,
-            "gps": [-29.8611731,30.9888292],
-            "since": 0
-        },
-        {
-            "name": "IX-Johannesburg at NAPAfrica",
-            "shortname": "IX-Johannesburg",
-            "city": "Johannesburg",
-            "country": "South Africa",
-            "cc": "ZA",
-            "url": "https://www.napafrica.net/napafrica-traffic/johannesburg-internet-exchange/",
-            "ixf_id": 351,
-            "gps": [-26.1900482,28.0289667],
-            "since": 0
-        },
-        {
-            "name": "IXLeeds",
-            "shortname": "IXLeeds",
-            "city": "Leeds",
-            "country": "UK",
-            "cc": "UK",
-            "url": "http://ixleeds.net/",
-            "ixf_id": 281,
-            "gps": [53.7924,-1.5405],
-            "since": 2010
         },
         {
             "name": "Massachusetts Internet Exchange",
@@ -450,6 +450,17 @@
             "ixf_id": 268,
             "gps": [33.5010764,-112.0845551],
             "since": 0
+        },
+        {
+            "name": "Pittsburgh Internet Exchange",
+            "shortname": "PIT-IX",
+            "city": "Pittsburgh",
+            "country": "USA",
+            "cc": "US",
+            "url": "https://pit-ix.net/",
+            "ixf_id": null,
+            "gps": [40.4313473,-80.0505396],
+            "since": 2017
         },
         {
             "name": "Rheintal Internet Exchange",
