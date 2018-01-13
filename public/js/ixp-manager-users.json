@@ -232,6 +232,16 @@
             "since": 0
         },
         {
+            "name": "Harare Internet Exchange Point",
+            "shortname": "HIX",
+            "city": "Harareregion",
+            "country": "Zimbabwe",
+            "cc": "ZW",
+            "url": "http://www.hix.org.zw/",
+            "gps": [-17.825151, 31.050310],
+            "since": 2018
+        },
+        {
             "name": "InterLAN Internet Exchange",
             "shortname": "InterLAN",
             "city": "Bucharest",
