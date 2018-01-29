@@ -67,6 +67,10 @@
           <img src="images/logos/grix.png" width="150"/>
       </a>
       &nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="http://interlan.ro/">
+          <img src="images/logos/interlan.png" width="150"/>
+      </a>
+      &nbsp;&nbsp;&nbsp;&nbsp;
       <a href="http://www.uio.no/tjenester/it/nett/fastnett/nix/info-english-short.html">
           <img src="images/logos/nix.png" width="100"/>
       </a>
