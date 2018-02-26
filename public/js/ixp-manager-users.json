@@ -397,6 +397,17 @@
             "since": 0
         },
         {
+            "name": "Milan Neutral Access Point",
+            "shortname": "MINAP",
+            "city": "Milano",
+            "country": "Italy",
+            "cc": "IT",
+            "url": "https://www.minap.it/",
+            "ixf_id": 164,
+            "gps": [45.476775, 9.103354],
+            "since": 2018
+        },
+        {
             "name": "Nepal Internet Exchange",
             "shortname": "NPIX",
             "city": "Kathmandu",
