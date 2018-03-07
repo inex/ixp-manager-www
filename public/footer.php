@@ -4,7 +4,7 @@
         <p>
           &copy; Copyright Internet Neutral Exchange Association Company Limited by Guarantee
             (<a href="https://www.inex.ie/">INEX</a>), Dublin, Ireland <?php echo date('Y') ?>
-          
+
         </p>
       </div>
 

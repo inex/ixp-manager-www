@@ -15,18 +15,30 @@
 
           <h3>Mailing Lists</h3>
 
-          <p>
-              As an open source project, the primary channel for requesting help is via our mailing list.
-              The developers and operations staff from INEX are on this list but we also try and foster
-              an environment where other more experienced users can help new comers.
-          </p>
-          <p>
-              Please <a href="https://www.inex.ie/mailman/listinfo/ixpmanager">subscribe here</a>.
-          </p>
+          <ul>
+              <li> <b>IXP Manager Users:</b> As an open source project, the primary channel for
+                  requesting help is via our mailing list. The developers and operations staff
+                  from INEX (and other IXs) are on this list but we also try and foster an
+                  environment where other more experienced users can help new comers.
+                  <br><br>
+                  Please <a href="https://www.inex.ie/mailman/listinfo/ixpmanager">subscribe here</a>
+                  (and see the <a href="https://www.inex.ie/pipermail/ixpmanager/">archives here</a>).
+                  <br><br>
+                  This list has moderate traffic - from low levels to ~100 emails / month.
+                  <br><br>
+              </li>
 
-          <p>
-          This list is low traffic and is also used to announce new versions, security issues, etc.
-          </p>
+              <li> <b>IXP Manager Announce:</b> announcements of new releases, security issues
+                    or important project news. We strongly advise all users of IXP Manager to
+                    subscribe to this list.
+                    <br><br>
+                    This list has extremely low volume (~0-5 emails / month) and posting is
+                    restricted to project members only.
+                    <br><br>
+                    Please <a href="https://www.inex.ie/mailman/listinfo/ixpmanager-announce">subscribe here</a>.
+                    (and see the <a href="https://www.inex.ie/pipermail/ixpmanager-announce/">archives here</a>).
+              </li>
+          </ul>
 
           <h3>Bugs and Feature Requests</h3>
 
