@@ -69,10 +69,17 @@
 
             INEX promotes a "Support, out in the open" model.  When support issues crop up, we invite people
             to send them to the ixpmanager@inex.ie mailing list where a member of the community can answer
-            them.  Alternatively if there's a bug, this can be reported on the github issues tracker where it
-            can be assessed by our dev team.  When this model is used, search engines pick up relevant query
-            terms, everybody learns about the application, the developers can see what's important to the
-            community, and the community benefits as a whole.
+            them.  When this model is used, search engines pick up relevant query terms, everybody learns
+            about the application and the developers can see what's important to the community.  This allows
+            all members of the community to benefit.
+
+          </p>
+
+          <p>
+
+            Alternatively if the problem is a repeatable bug, this can be reported on the <a
+            href="https://github.com/inex/IXP-Manager/issues">IXP Manager issue tracker</a> on Github where
+            it can be triaged by our dev team.
 
           </p>
 
