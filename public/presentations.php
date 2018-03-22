@@ -10,6 +10,30 @@
     Barry O&#8217;Donovan and Nick Hilliard routinely give talks and workshops on IXP Manager. We&#8217;ve published the more recent ones below and, where video exists, we&#8217;ll also link to that.
 </p>
 
+<h3>2018</h3>
+<br>
+
+<h4>
+    APRICOT 2018 / APIX - IXP Manager Workshop.<br />
+    <small>Kathmandu, Nepal. February 25th 2018.</small>
+</h4>
+
+<ul>
+    <li>
+        IXP Manager Workshop: Introduction
+            [<a href="media/2018/inex-apricot-ixp-manager-workshop1-introduction-2018-02-25.pdf">pdf</a>]
+            [<a href="https://youtu.be/l86wz0tvsQg?t=9m">video</a>]<br>
+        Workshop introduction, an update on IXP Manager and an overview of its features.
+    </li>
+    <li>
+        IXP Manager Workshop: Installation, Configuration
+        [<a href="media/2018/inex-apricot-ixp-manager-workshop2-installation-2018-02-25.pdf">pdf</a>]
+    </li>
+</ul>
+<br>
+
+
+
 <h3>2017</h3>
 <br>
 
@@ -54,7 +78,7 @@
     <li>
         <a href="media/2017/201709-nlnog2017-automation-with-ixp-manager.pdf">
             Automation with IXP Manager
-        </a> 
+        </a>
         [<a href="https://youtu.be/UAoLASkndaY">video</a>]
     </li>
 </ul>
