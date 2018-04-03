@@ -12,6 +12,17 @@
             "since": 0
         },
         {
+            "name": "Albanian Neutral Internet Exchange",
+            "shortname": "ANIX",
+            "city": "Tirana",
+            "country": "Albanian",
+            "cc": "AL",
+            "url": "https://www.anix.al/",
+            "ixf_id": null,
+            "gps": [41.332558, 19.807102],
+            "since": 2018
+        },
+        {
             "name": "APLIX.PL",
             "shortname": "APLIX",
             "city": "Gdynia",
