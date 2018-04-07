@@ -441,6 +441,17 @@
             "since": 0
         },
         {
+            "name": "Northern New England Neutral Internet Exchange",
+            "shortname": "NNENIX",
+            "city": "Portland",
+            "country": "USA",
+            "cc": "US",
+            "url": "http://www.nnenix.net/",
+            "ixf_id": 0,
+            "gps": [43.658074, -70.29982],
+            "since": 0
+        },
+        {
             "name": "Northwest Access Exchange",
             "shortname": "NWAX",
             "city": "Oregon",
