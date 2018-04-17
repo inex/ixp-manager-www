@@ -56,6 +56,17 @@
             "since": 0
         },
         {
+            "name": "Baltic Internet Exchange",
+            "shortname": "Balt-IX",
+            "city": "Vilnius",
+            "country": "Lithuania",
+            "cc": "LT",
+            "url": "http://www.balt-ix.lt",
+            "ixf_id": 741,
+            "gps": [54.637417,25.306889],
+            "since": 0
+        },
+        {
             "name": "Bangkok Neutral Internet Exchange",
             "shortname": "BKNIX",
             "city": "Bangkok",
