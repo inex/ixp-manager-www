@@ -507,6 +507,17 @@
             "since": 0
         },
         {
+            "name": "Philadelphia Internet Exchange",
+            "shortname": "PhillyIX",
+            "city": "Philadelphia",
+            "country": "USA",
+            "cc": "US",
+            "url": "http://phillyix.net",
+            "ixf_id": 0,
+            "gps": [39.959920, -75.161770],
+            "since": 0
+        },
+        {
             "name": "Pittsburgh Internet Exchange",
             "shortname": "PIT-IX",
             "city": "Pittsburgh",
