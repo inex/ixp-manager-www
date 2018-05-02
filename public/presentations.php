@@ -113,7 +113,7 @@
             Cross Connect / Patch Panel Management
         </a>:
         A ~5 minute lightning talk to introduce the new cross connect / patch panel management feature.
-        The <a href="http://docs.ixpmanager.org/features/patch-panels/">official
+        The <a href="https://docs.ixpmanager.org/features/patch-panels/">official
         documentation for this feature</a> would be recommended reading.
     </li>
 </ul>
