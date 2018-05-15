@@ -210,6 +210,17 @@
             "since": 0
         },
         {
+            "name": "Georgian Internet Exchange ",
+            "shortname": "GIX",
+            "city": Tbilisi,
+            "country": "Georgia",
+            "cc": "GE",
+            "url": "http://www.gix.ge/",
+            "ixf_id": 711,
+            "gps": [40.741895,-73.989308],
+            "since": 2018
+        },
+        {
             "name": "Giganet :: Ukrainian Internet Exchange",
             "shortname": "Giganet",
             "city": null,
