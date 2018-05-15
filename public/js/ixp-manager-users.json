@@ -212,7 +212,7 @@
         {
             "name": "Georgian Internet Exchange ",
             "shortname": "GIX",
-            "city": Tbilisi,
+            "city": "Tbilisi",
             "country": "Georgia",
             "cc": "GE",
             "url": "http://www.gix.ge/",
