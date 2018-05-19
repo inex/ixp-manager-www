@@ -1,6 +1,17 @@
 {
     "ixp_list": [
         {
+            "name": "Advanced Internet Exchange",
+            "shortname": "A.IX",
+            "city": "Beirut",
+            "country": "Lebanon",
+            "cc": "LB",
+            "url": "http://ixpmanager.a-ix.org/",
+            "ixf_id": 699,
+            "gps": [33.875059, 35.531900],
+            "since": 0
+        },
+        {
             "name": "Angonix",
             "shortname": "angonix",
             "city": null,
