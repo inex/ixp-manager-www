@@ -1,11 +1,11 @@
 <?php
 
-    $req = $_SERVER['REQUEST_URI'];
+    $req = strtolower( $_SERVER['REQUEST_URI'] );
     $h404 = false;
 
     if( $req == '/' || $req == '/index' || $req == 'index.php' ) {
         // do nothing
-    } elseif( file_exists( __DIR__ . '/' . $req . '.php' ) ) {
+    } elseif( preg_match( '/^\/[a-z0-9]+$/', $req ) && file_exists( __DIR__ . '/' . $req . '.php' ) ) {
         include( __DIR__ . '/' . $req . '.php' );
         die();
     } else {
