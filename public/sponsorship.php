@@ -7,25 +7,26 @@
 
 <p>
     IXP Manager began as an internal project at INEX and we chose to open source it in 2012.
-    To date, INEX has borne nearly the complete development, maintenance, support and project
-    management burden of the project. However, in writing down the plans we would like to
-    achieve – coupled with our current workload and available resources – we have come to
-    the realisation that to fully develop IXP Manager into all we hope it can be, we needed
+    INEX has borne nearly the complete development, maintenance, support and project
+    management burden of the project until we started the sponsorship program in late 2016.
+</p>
+<p>
+    To continue to develop IXP Manager into all we hope it can be, we needed
     to look at a more sustainable funding model and hire a full time developer.
 </p>
 <p class="lead">
-    Our call for funding document (including year one development plan and year two and three outlook)
-    can be <a href="media/2016/2016-02-Funding-Model-1.4.pdf">downloaded here</a>.
+    Our original call for funding document (including year one development plan and
+    year two and three outlook) can be
+    <a href="/media/2016/2016-02-Funding-Model-1.4.pdf">downloaded here</a>. A public
+    version of our 2017 year end report to the sponsors' can also be
+    <a href="/media/2017/2017-10-SponsorsReport-Public.pdf">downloaded here</a>.
 </p>
 <p>
-    If you'd like to discuss sponsoring IXP Manager, please contact Barry O'Donovan on either
-    +353 1 531 3334 or <a href="mailto:sponsorship@ixpmanager.org">sponsorship@ixpmanager.org</a>.
+    If you'd like to discuss sponsoring IXP Manager, please contact Barry O'Donovan / Nick Hilliard
+    via <a href="mailto:sponsorship@ixpmanager.org">sponsorship@ixpmanager.org</a>.
 </p>
 
 <h3>Sponsorship Levels</h3>
-
-<b><i>Naturally, all sponsorship levels include bragging rights that you sponsor this great project,
-a &quot;sponsors of&quot; logo for your own website, Twitter shoutouts, etc.</i></b>
 
 <h4>Diamond</h4>
 
@@ -92,28 +93,35 @@ a &quot;sponsors of&quot; logo for your own website, Twitter shoutouts, etc.</i>
 
 <ul>
     <li>
-        Donations are annual. One year after donating, the sponsor's logo is removed from the current sponsors list and any other privileges associated with sponsorship. Note that your contribution will always be noted at the end of the <a href="/sponsors">Sponsors</a> page.
+        Donations are annual. One year after donating, the sponsor's logo is removed from the current sponsors list and
+        any other privileges associated with sponsorship. Note that your contribution will always be noted at the end
+        of the <a href="/sponsors">sponsors page</a>.
     </li>
     <li>
         Lowest sponsorship level is €1,000/year.
     </li>
     <li>
-        All sponsors will be shown on the <a href="/sponsors">Sponsors</a> page:
+        All sponsors will be shown on the <a href="/sponsors">sponsors page</a>:
         <ul>
             <li>
-                The <a href="/sponsors">Sponsors</a> page will always be publically accessible
+                The <a href="/sponsors">sponsors page</a> will always be publicly accessible.
             </li>
             <li>
-                The <a href="/sponsors">Sponsors</a> page will also be linked off every IXP Manager installation's <em>About</em> page which is publically accessible by default.
+                The <a href="/sponsors">sponsors page</a> will be linked in the header and the footer of all pages on the
+                <a href="https://www.ixpmanager.org/">www.ixpmanager.org</a> website which in turn is linked off every
+                IXP Manager installation's default <em>Documentation</em> menu (which is also publically accessible by default).
             </li>
         </ul>
     </li>
     <li>
-        IXP Manager presentations will include sponsor’s logo for one year.
+        Current sponsors may use the IXP Manager logo to advertise their sponsorship for the term of their sponsorship.
     </li>
     <li>
-        Sponsors will receive a logo for their level, which they may include on their web site or in
-        presentations/marketing materials for one year.
+        Official IXP Manager conference presentations, when allowed, will include a slide with our sponsors' logos for <em>Gold</em>
+        level and higher. Where feasible, we will endeavour to include logos for lower levels also.
+    </li>
+    <li>
+        We encourage our sponsors to brag about their sponsorship of this great project on social media, at conferences, etc.
     </li>
 </ul>
 

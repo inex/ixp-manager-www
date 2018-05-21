@@ -6,11 +6,9 @@
 <h2>Sponsors</h2>
 
 <p class="lead">
-    We are looking for sponsors! Do you think you can help us? See <a href="/sponsorship">our call for sponsorship</a>.
-</p>
-
-<p>
-    The below organisations are current sponsors of our  <a href="/sponsorship">sponsorship program</a>.
+    Continued developement and support of IXP Manager requires sponsorship and we are always looking for new sponsors. If you think you can help us, please see <a href="/sponsorship">our call for sponsorship</a>.
+    <br><br>
+    <b>The below organisations are the current sponsors of IXP Manager and we thank them for their continued support.</b>
 </p>
 
 <div class="row">
@@ -20,7 +18,7 @@
   <div class="col-sm-8 sponsor-div">
       <br>
       <em>
-          Open source project in an open relatonship seeks long term partnership with rich benefactor.
+          This could be you!
       </em>
   </div>
 </div>
@@ -31,13 +29,13 @@
   </div>
   <div class="col-sm-8 sponsor-div">
       <a href="http://www.internetsociety.org/">
-          <img src="images/logos/isoc.png" width="200"/>
+          <img src="images/logos/isoc.png" width="180" style="margin: 10px;" />
       </a>
       <a href="https://www.netflix.com/">
-          <img src="images/logos/netflix.png" width="200"/>
+          <img src="images/logos/netflix.png" width="180" style="margin: 10px;" />
       </a>
       <a href="https://www.swissix.ch/">
-          <img src="images/logos/swissix.png" width="200"/>
+          <img src="images/logos/swissix.png" width="180" style="margin: 10px;" />
       </a>
   </div>
 </div>
@@ -64,19 +62,19 @@
   </div>
   <div class="col-sm-8 sponsor-div">
       <a href="https://www.gr-ix.gr/">
-          <img src="images/logos/grix.png" width="150"/>
+          <img src="images/logos/grix.png" width="100" style="margin: 10px;" />
       </a>
       &nbsp;&nbsp;&nbsp;&nbsp;
       <a href="http://interlan.ro/">
-          <img src="images/logos/interlan.png" width="150"/>
+          <img src="images/logos/interlan.png" width="100" style="margin: 10px;" />
       </a>
       &nbsp;&nbsp;&nbsp;&nbsp;
       <a href="http://www.uio.no/tjenester/it/nett/fastnett/nix/info-english-short.html">
-          <img src="images/logos/nix.png" width="100"/>
+          <img src="images/logos/nix.png" width="100" style="margin: 10px;" />
       </a>
       &nbsp;&nbsp;&nbsp;&nbsp;
       <a href="http://www.sthix.net/">
-          <img src="images/logos/sthix.png" width="150"/>
+          <img src="images/logos/sthix.png" width="100" style="margin: 10px;" />
       </a>
   </div>
 </div>
@@ -94,7 +92,7 @@
         <a href="http://www.lonap.net/">LONAP</a> who contribute on an on going basis to some development work via a <a href="/commercial">commercial support</a> arrangement and whom paid for a number of features to be developed in 2014 including the <em>fan out</em> reseller support and private VLANs.
     </li>
     <li>
-        <a href="https://de-cix.net/">DE&middot;CIX</a> for a bounty in 2016 to implement RRD support on MRTG graphing as part of their work with angonix.
+        <a href="https://de-cix.net/">DE&middot;CIX</a> for a bounty in 2016 to implement RRD support on MRTG graphing as part of their work with <a href="https://www.angonix.net/">angonix</a>.
     </li>
 </ul>
 
