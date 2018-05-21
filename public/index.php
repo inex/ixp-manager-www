@@ -1,4 +1,19 @@
 <?php
+
+    $req = $_SERVER['REQUEST_URI'];
+    $h404 = false;
+
+    if( $req == '/' || $req == '/index' || $req == 'index.php' ) {
+        // do nothing
+    } elseif( file_exists( __DIR__ . '/' . $req . '.php' ) ) {
+        include( __DIR__ . '/' . $req . '.php' );
+        die();
+    } else {
+        header('HTTP/1.1 404 Not Found');
+        $h404 = true;
+    }
+
+
     $ixps = file_get_contents("js/ixp-manager-users.json");
 
     $additionalFooter = <<<END_HEADER
@@ -36,7 +51,14 @@ END_HEADER;
 
 -->
 
+    <?php if( $h404 ): ?>
       <div class="row marketing">
+        <div class="alert alert-error"><b>Error 404</b> - Requested file / resource was not found.</div>
+      </div>
+    <?php endif; ?>
+
+      <div class="row marketing">
+
         <div class="col-lg-12">
           <h2>About</h2>
 
