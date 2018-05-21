@@ -14,6 +14,19 @@
 <br>
 
 <h4>
+    32nd Euro-IX Forum<br />
+    <small>Galway, Ireland. April 2018.</small>
+</h4>
+
+<ul>
+    <li>
+        IXP Manager Update &amp; Route Server Configuration
+            [<a href="media/2018/20180417-euroix-ixpmanager.pdf">pdf</a>]<br>
+    </li>
+</ul>
+<br>
+
+<h4>
     APRICOT 2018 / APIX - IXP Manager Workshop.<br />
     <small>Kathmandu, Nepal. February 25th 2018.</small>
 </h4>
