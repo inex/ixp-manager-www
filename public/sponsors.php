@@ -6,11 +6,11 @@
 <h2>Sponsors</h2>
 
 <p class="lead">
-    We are looking for sponsors! Do you think you can help us? See <a href="sponsorship.php">our call for sponsorship</a>.
+    We are looking for sponsors! Do you think you can help us? See <a href="/sponsorship">our call for sponsorship</a>.
 </p>
 
 <p>
-    The below organisations are current sponsors of our  <a href="sponsorship.php">sponsorship program</a>.
+    The below organisations are current sponsors of our  <a href="/sponsorship">sponsorship program</a>.
 </p>
 
 <div class="row">
@@ -91,7 +91,7 @@
 
 <ul>
     <li>
-        <a href="http://www.lonap.net/">LONAP</a> who contribute on an on going basis to some development work via a <a href="commercial.php">commercial support</a> arrangement and whom paid for a number of features to be developed in 2014 including the <em>fan out</em> reseller support and private VLANs.
+        <a href="http://www.lonap.net/">LONAP</a> who contribute on an on going basis to some development work via a <a href="/commercial">commercial support</a> arrangement and whom paid for a number of features to be developed in 2014 including the <em>fan out</em> reseller support and private VLANs.
     </li>
     <li>
         <a href="https://de-cix.net/">DE&middot;CIX</a> for a bounty in 2016 to implement RRD support on MRTG graphing as part of their work with angonix.

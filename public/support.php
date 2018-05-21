@@ -51,7 +51,7 @@
 
           <p>
             The ideal feature request comes with code via a pull request. This (or
-            <a href="/commercial.php">commercial support</a>)
+            <a href="/commercial">commercial support</a>)
             is the most probable way to get a feature into IXP Manager! Feel free to file feature requests as an
             <a href="https://github.com/inex/IXP-Manager/issues">issue</a> and tag it as such.
           </p>

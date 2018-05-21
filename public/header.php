@@ -34,11 +34,11 @@
           <li <?php if( !isset( $active ) ) { ?>class="active"<?php } ?>><a href="/">Home</a></li>
 
           <li class="dropdown <?php if( isset( $active ) && $active == 'sponsors' ) { ?>active<?php } ?>">
-              <a href="sponsors.php">Sponsors</a>
+              <a href="sponsors">Sponsors</a>
           </li>
 
           <li class="dropdown <?php if( isset( $active ) && $active == 'users' ) { ?>active<?php } ?>">
-              <a href="users.php">Users</a>
+              <a href="users">Users</a>
           </li>
 
           <li class="dropdown <?php if( isset( $active ) && $active == 'support' ) { ?>active<?php } ?>">
@@ -46,9 +46,9 @@
                 Support <span class="caret"></span>
               </a>
               <ul class="dropdown-menu">
-                  <li> <a href="/support.php">Getting Help</a> </li>
-                  <li> <a href="/presentations.php">Presentations &amp; Talks</a> </li>
-                  <li> <a href="/commercial.php">Commercial Support</a> </li>
+                  <li> <a href="/support">Getting Help</a> </li>
+                  <li> <a href="/presentations">Presentations &amp; Talks</a> </li>
+                  <li> <a href="/commercial">Commercial Support</a> </li>
                   <li role="separator" class="divider"></li>
                   <li> <a href="https://github.com/inex/IXP-Manager/wiki" target="_blank">V3 Documentation &raquo;</a> </li>
                   <li> <a href="https://docs.ixpmanager.org/" target="_blank">V4 Documentation &raquo;</a> </li>

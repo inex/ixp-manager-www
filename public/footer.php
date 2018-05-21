@@ -3,7 +3,9 @@
       <div class="footer">
         <p>
           &copy; Copyright Internet Neutral Exchange Association Company Limited by Guarantee
-            (<a href="https://www.inex.ie/">INEX</a>), Dublin, Ireland <?php echo date('Y') ?>
+            (<a href="https://www.inex.ie/">INEX</a>), Dublin, Ireland <?php echo date('Y') ?><br>
+          <a href="/sponsors">Sponsors</a> | Logistics, sponsored and commercial development and support via
+            <a href="https://www.islandbridgenetworks.ie/">Island Bridge Networks Ltd</a>.
 
         </p>
       </div>

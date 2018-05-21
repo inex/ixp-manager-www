@@ -92,19 +92,19 @@ a &quot;sponsors of&quot; logo for your own website, Twitter shoutouts, etc.</i>
 
 <ul>
     <li>
-        Donations are annual. One year after donating, the sponsor's logo is removed from the current sponsors list and any other privileges associated with sponsorship. Note that your contribution will always be noted at the end of the <a href="sponsors.php">Sponsors</a> page.
+        Donations are annual. One year after donating, the sponsor's logo is removed from the current sponsors list and any other privileges associated with sponsorship. Note that your contribution will always be noted at the end of the <a href="/sponsors">Sponsors</a> page.
     </li>
     <li>
         Lowest sponsorship level is €1,000/year.
     </li>
     <li>
-        All sponsors will be shown on the <a href="sponsors.php">Sponsors</a> page:
+        All sponsors will be shown on the <a href="/sponsors">Sponsors</a> page:
         <ul>
             <li>
-                The <a href="sponsors.php">Sponsors</a> page will always be publically accessible
+                The <a href="/sponsors">Sponsors</a> page will always be publically accessible
             </li>
             <li>
-                The <a href="sponsors.php">Sponsors</a> page will also be linked off every IXP Manager installation's <em>About</em> page which is publically accessible by default.
+                The <a href="/sponsors">Sponsors</a> page will also be linked off every IXP Manager installation's <em>About</em> page which is publically accessible by default.
             </li>
         </ul>
     </li>
@@ -113,7 +113,7 @@ a &quot;sponsors of&quot; logo for your own website, Twitter shoutouts, etc.</i>
     </li>
     <li>
         Sponsors will receive a logo for their level, which they may include on their web site or in
-        presentations/marketing materials for one year. 
+        presentations/marketing materials for one year.
     </li>
 </ul>
 

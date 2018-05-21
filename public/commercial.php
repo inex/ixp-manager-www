@@ -10,7 +10,7 @@
                 development house. But INEX are eager for IXP Manager to become the de facto
                 management system for similar IXPs and as such, its staff are willing to help with
                 installations so as to build better documentation.
-                This is all done throught the <a href="/support.php">mailing list</a>
+                This is all done throught the <a href="/support">mailing list</a>
             </p>
             <p>
                 We will consider feature requests - especially where they
@@ -24,7 +24,7 @@
                 <a href="mailto:sales@islandbridgenetworks.ie">sales@islandbridgenetworks.ie</a>
             </blockquote>
             <p>
-                In 2016 we also lanched a <a href="sponsorship.php">sponsorship program</a> to
+                In 2016 we also lanched a <a href="/sponsorship">sponsorship program</a> to
                 allow us to hire a full time devleloper on a not-for-profit basis for IXP Manager.
                 If you or your organisation feels they can contribute in anyway, please contact us
                 on the above address.

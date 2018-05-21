@@ -3,6 +3,17 @@
     $req = strtolower( $_SERVER['REQUEST_URI'] );
     $h404 = false;
 
+    // Requires:
+    // Options FollowSymLinks
+    // AllowOverride None
+    //
+    // RewriteEngine On
+    // RewriteCond %{REQUEST_FILENAME} -s     [OR]
+    // RewriteCond %{REQUEST_FILENAME} -l     [OR]
+    // RewriteCond %{REQUEST_FILENAME} -d
+    // RewriteRule ^.*$ - [NC,L]
+    // RewriteRule ^.*$ /index.php [NC,L]
+
     if( $req == '/' || $req == '/index' || $req == 'index.php' ) {
         // do nothing
     } elseif( preg_match( '/^\/[a-z0-9]+$/', $req ) && file_exists( __DIR__ . '/' . $req . '.php' ) ) {
@@ -36,7 +47,7 @@ END_HEADER;
         both teaches and implements best practice.
       </p>
       <p>
-        <a class="btn btn-success" href="users.php" role="button">Powering <span id="numixps"></span> IXPs</a>
+        <a class="btn btn-success" href="users" role="button">Powering <span id="numixps"></span> IXPs</a>
         <a class="btn btn-success" href="https://github.com/inex/IXP-Manager"  role="button">GitHub</a>
         <a class="btn btn-success" href="https://twitter.com/ixpmanager" role="button">@ixpmanager</a>
     </p>
