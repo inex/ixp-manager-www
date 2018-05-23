@@ -132,8 +132,30 @@
 </ul>
 <br>
 
+
+
 <h3>2016</h3>
 <br>
+
+<h4>
+    RIPE 73 - Connect Working Group<br />
+    <small>Madrid, Spain. October 2016.</small>
+</h4>
+
+<ul>
+    <li>
+        Bird's Eye: A Simple Secure Micro Service for Querying Bird
+        [<a href="media/2016/201610-ripe73-inex-birdseye.pdf">pdf</a>]
+        [<a href="https://ripe73.ripe.net/archives/video/1505/">video</a>]
+    </li>
+    <li>
+        Exporting Flow Telemetry for Fun and Profit
+        [<a href="media/2016/201610-ripe73-inex-nh-exporting-sflow.pdf">pdf</a>]
+        [<a href="https://ripe73.ripe.net/archives/video/1458/">video</a>]
+    </li>
+</ul>
+<br>
+
 
 <h4>
     28th Euro-IX Forum - 3rd IXP Manager Workshop.<br />
