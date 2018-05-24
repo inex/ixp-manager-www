@@ -14,6 +14,20 @@
 <br>
 
 <h4>
+    LACNIC29<br />
+    <small>Panama City, Panama. May 2018.</small><br />
+    <small>Kyle Spencer, Uganda Internet Exchange Point</small><br />
+</h4>
+
+<ul>
+    <li>
+        IXP Manager Workshop: Tutorial
+            [<a href="media/2018/uixp-lacnic29-panama-ixp-manager-workshop2-installation-2018-05-03.pdf">pdf</a>]<br>
+    </li>
+</ul>
+<br>
+
+<h4>
     32nd Euro-IX Forum<br />
     <small>Galway, Ireland. April 2018.</small>
 </h4>
