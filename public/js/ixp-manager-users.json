@@ -452,6 +452,17 @@
             "since": 2018
         },
         {
+            "name": "NAMEX Roma IXP",
+            "shortname": "NAMEX",
+            "city": "Roma",
+            "country": "Italy",
+            "cc": "IT",
+            "url": "https://www.namex.it/",
+            "ixf_id": 17,
+            "gps": [ 41.898971, 12.512127 ],
+            "since": 2018
+        },
+        {
             "name": "Nepal Internet Exchange",
             "shortname": "NPIX",
             "city": "Kathmandu",
