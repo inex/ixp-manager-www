@@ -155,6 +155,17 @@
             "since": 2016
         },
         {
+            "name": "Costa Rica Neutral Internet Exchange Point",
+            "shortname": "CRIX",
+            "city": "San José",
+            "country": "Costa Rica",
+            "cc": "CR",
+            "url": "https://www.crix.cr/",
+            "ixf_id": 0,
+            "gps": [9.9299961,-84.0661925],
+            "since": 2018
+        },
+        {
             "name": "Croatian Internet Exchange",
             "shortname": "CIX",
             "city": "Zagreb",
