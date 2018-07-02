@@ -14,6 +14,22 @@
 <br>
 
 <h4>
+    <a href="https://laravellive.uk/" target="_blank">Laravel Live UK</a><br />
+    <small>London UK. June 2018.</small><br />
+</h4>
+
+<ul>
+    <li>
+        Migrating Legacy Applications to PHP
+            [<a href="media/2018/201806-LaravelLiveUK.pdf">pdf</a>]<br><br>
+            A PHP conference presentation on migrating legacy PHP applications 
+            to <a href="https://laravel.com/">Laravel</a> using our experiences 
+            with IXP Manager as a use-case example.
+    </li>
+</ul>
+<br>
+
+<h4>
     LACNIC29<br />
     <small>Panama City, Panama. May 2018.</small><br />
     <small>Kyle Spencer, Uganda Internet Exchange Point</small><br />
