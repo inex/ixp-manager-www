@@ -26,6 +26,9 @@
                   <br><br>
                   This list has moderate traffic - from low levels to ~100 emails / month.
                   <br><br>
+                  <b>Please read the section <i><a href="#asking-for-help">The Best Way to Ask for Help</a></i>
+                      below to maximise your chances of getting a quick and useful reply.</b>
+                  <br><br>
               </li>
 
               <li> <b>IXP Manager Announce:</b> announcements of new releases, security issues
@@ -68,7 +71,7 @@
           <p>
 
             INEX promotes a "Support, out in the open" model.  When support issues crop up, we invite people
-            to send them to the ixpmanager@inex.ie mailing list where a member of the community can answer
+            to send them to the IXP Manager Users mailing list (see above) where a member of the community can answer
             them.  When this model is used, search engines pick up relevant query terms, everybody learns
             about the application and the developers can see what's important to the community.  This allows
             all members of the community to benefit.
@@ -87,13 +90,13 @@
 
             INEX doesn't offer free private technical support.  This means that if you email one of the
             development team directly, we will politely suggest that you send your question to the mailing
-            list.
+            list or direct you to <a href="https://www.ixpmanager.org/commercial">commercial support options</a>.
 
           </p>
 
 
           <a name="asking-for-help"></a>
-          <h3>The Best Way to Ask For Help</h3>
+          <h3>The Best Way to Ask for Help</h3>
 
 
           <p>
@@ -108,25 +111,31 @@
 
           <ul>
               <li> make sure the problem was not already reported as a bug or asked on the mailing list to avoid duplicates
-                  (to search the mailing list add this to your Google search: <code>site:www.inex.ie</code>);
+                  (to search the mailing list add this to your Google search: <tt>site:www.inex.ie</tt>);
               </li>
-              <li> ensure you have read the documentation in details: <a href="https://docs.ixpmanager.org/">https://docs.ixpmanager.org/</a>.
-                  If, when your problem is solved, you feel that the documentation could be improved, <b>please please
-                  <a href="https://docs.ixpmanager.org/dev/docs/">contribute back with suggested improvements</a></b>; </li>
-              <li> explain the issue with sufficient detail that we will sure of what you are trying to do; </li>
+              <li> ensure you have read the documentation in detail: <a href="https://docs.ixpmanager.org/">https://docs.ixpmanager.org/</a>;
+                <ul>
+                    <li> If, when your problem is solved, you feel that the documentation could be improved, please
+                        <a href="https://docs.ixpmanager.org/dev/docs/">contribute back</a> with suggested improvements; </li>
+                </ul>
+            </li>
+              <li> explain the issue with sufficient detail that we will be certain of what you are trying to do. Include
+                  your understanding of what the expected result should be versus what you are getting; </li>
               <li> always provide detailed steps to reproduce an issue; </li>
               <li> always test if the latest release is affected. Bug reports on older releases cannot be accepted and will be closed; </li>
-              <li> provide relevant snippnets of your <code>.env</code> (or all of it after removing keys, passwords, etc.) </li>
-              <li> copy all relevant logs to an online pastebin such as <a href="http://p.ip.fi/">this one</a> and place the URL in you
-                  email. Logs will usually be found under <code>$IXPROOT/storage/logs/...</code>.
+              <li> provide relevant snippnets of your <tt>.env</tt> (or all of it after removing keys, passwords, etc.) </li>
+              <li> copy all relevant logs to an online pastebin such as <a href="http://p.ip.fi/">this one</a> and place the URL
+                  you receive from the pastebin into your email. Logs will usually be found under <tt>$IXPROOT/storage/logs/...</tt>.
+                  Our mailing list has size and attachement restrictions, as such:
                     <ul>
-                        <li> <b>never attach screenshots of logs</b>;
-                        <li> <b>never attach log files to your mailing list email</b>;
+                        <li> never attach screenshots of logs;
+                        <li> never attach log files to your mailing list email;
                     </ul>
               </li>
               <li> mention the OS you are running IXP Manager on (including Linux variant if relevant) </li>
-              <li> mention the version of IXP Manager you are running (output from <code>cat $IXPROOT/library/IXP/Version.php | grep APPLICATION</code>); </li>
-              <li> mention the version of PHP you have (<code>php -v</code>) </code>
+              <li> mention the version of IXP Manager you are running (output from <tt>cat $IXPROOT/library/IXP/Version.php | grep APPLICATION</tt>); </li>
+              <li> mention the version of PHP you have (<tt>php -v</tt>) </li>
+              <li> provide anything else you think might help someone solve your problem. </li>
 
           </ul>
 
