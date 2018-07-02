@@ -91,6 +91,46 @@
 
           </p>
 
+
+          <a name="asking-for-help"></a>
+          <h3>The Best Way to Ask For Help</h3>
+
+
+          <p>
+              If you do need help with something and you have decided to open a bug or email the mailing list,
+              please remember that the developers and contributors are busy people and their help is on a voluntary
+              basis.
+          </p>
+          <p>
+              With that in mind, the best way to get a thoughtful, complete and helpful response is to offer as
+              much information as possible in your original query. So, where appropriate, consider the following:
+          </p>
+
+          <ul>
+              <li> make sure the problem was not already reported as a bug or asked on the mailing list to avoid duplicates
+                  (to search the mailing list add this to your Google search: <code>site:www.inex.ie</code>);
+              </li>
+              <li> ensure you have read the documentation in details: <a href="https://docs.ixpmanager.org/">https://docs.ixpmanager.org/</a>.
+                  If, when your problem is solved, you feel that the documentation could be improved, <b>please please
+                  <a href="https://docs.ixpmanager.org/dev/docs/">contribute back with suggested improvements</a></b>; </li>
+              <li> explain the issue with sufficient detail that we will sure of what you are trying to do; </li>
+              <li> always provide detailed steps to reproduce an issue; </li>
+              <li> always test if the latest release is affected. Bug reports on older releases cannot be accepted and will be closed; </li>
+              <li> provide relevant snippnets of your <code>.env</code> (or all of it after removing keys, passwords, etc.) </li>
+              <li> copy all relevant logs to an online pastebin such as <a href="http://p.ip.fi/">this one</a> and place the URL in you
+                  email. Logs will usually be found under <code>$IXPROOT/storage/logs/...</code>.
+                    <ul>
+                        <li> <b>never attach screenshots of logs</b>;
+                        <li> <b>never attach log files to your mailing list email</b>;
+                    </ul>
+              </li>
+              <li> mention the OS you are running IXP Manager on (including Linux variant if relevant) </li>
+              <li> mention the version of IXP Manager you are running (output from <code>cat $IXPROOT/library/IXP/Version.php | grep APPLICATION</code>); </li>
+              <li> mention the version of PHP you have (<code>php -v</code>) </code>
+
+          </ul>
+
+
         </div>
 
 <?php include 'footer.php'; ?>
