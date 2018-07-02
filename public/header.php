@@ -50,8 +50,7 @@
                   <li> <a href="/presentations">Presentations &amp; Talks</a> </li>
                   <li> <a href="/commercial">Commercial Support</a> </li>
                   <li role="separator" class="divider"></li>
-                  <li> <a href="https://github.com/inex/IXP-Manager/wiki" target="_blank">V3 Documentation &raquo;</a> </li>
-                  <li> <a href="https://docs.ixpmanager.org/" target="_blank">V4 Documentation &raquo;</a> </li>
+                  <li> <a href="https://docs.ixpmanager.org/" target="_blank">Documentation &raquo;</a> </li>
               </ul>
           </li>
 
