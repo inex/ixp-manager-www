@@ -474,6 +474,17 @@
             "since": 2018
         },
         {
+            "name": "National Internet Exchange Of Afghanistan",
+            "shortname": "NIXA",
+            "city": "Kabul",
+            "country": "Afghanistan",
+            "cc": "AF",
+            "url": "http://nixa.af/",
+            "ixf_id": 0,
+            "gps": [ 34.519678, 69.175392 ],
+            "since": 2018
+        },
+        {
             "name": "Nepal Internet Exchange",
             "shortname": "NPIX",
             "city": "Kathmandu",
