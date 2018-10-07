@@ -53,6 +53,9 @@
       <h3>SILVER SPONSORS</h3>
   </div>
   <div class="col-sm-8 sponsor-div">
+      <a href="http://www.sthix.net/">
+          <img src="images/logos/sthix.png" width="150" style="margin: 10px;" />
+      </a>
   </div>
 </div>
 
@@ -71,10 +74,6 @@
       &nbsp;&nbsp;&nbsp;&nbsp;
       <a href="http://www.uio.no/tjenester/it/nett/fastnett/nix/info-english-short.html">
           <img src="images/logos/nix.png" width="100" style="margin: 10px;" />
-      </a>
-      &nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="http://www.sthix.net/">
-          <img src="images/logos/sthix.png" width="100" style="margin: 10px;" />
       </a>
   </div>
 </div>
