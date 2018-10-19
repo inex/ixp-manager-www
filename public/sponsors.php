@@ -45,6 +45,9 @@
       <h3>GOLD SPONSORS</h3>
   </div>
   <div class="col-sm-8 sponsor-div">
+      <a href="https://www.facebook.com/">
+          <img src="images/logos/facebook.png" width="170" style="margin: 10px;" />
+      </a>
   </div>
 </div>
 
