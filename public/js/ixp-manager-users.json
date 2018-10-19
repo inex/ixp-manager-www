@@ -56,17 +56,6 @@
             "since": 0
         },
         {
-            "name": "Autonomous System Internet Exchange",
-            "shortname": "AS-IX",
-            "city": "Dronten",
-            "country": "The Netherlands",
-            "cc": "NL",
-            "url": "https://as-ix.net/",
-            "ixf_id": 722,
-            "gps": [52.543666,5.703021],
-            "since": 0
-        },
-        {
             "name": "Baltic Internet Exchange",
             "shortname": "Balt-IX",
             "city": "Vilnius",
@@ -648,6 +637,17 @@
             "ixf_id": 89,
             "gps": [48.6641036,19.1973749],
             "since": 0
+        },
+        {
+            "name": "SPEED-IX",
+            "shortname": "SPEED-IX",
+            "city": "Dronten",
+            "country": "The Netherlands",
+            "cc": "NL",
+            "url": "https://speed-ix.net/",
+            "ixf_id": 722,
+            "gps": [52.543666,5.703021],
+            "since": 2018
         },
         {
             "name": "Stockholm Internet Exchange",
