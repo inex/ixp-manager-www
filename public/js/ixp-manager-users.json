@@ -640,7 +640,7 @@
         },
         {
             "name": "Somali Internet Exchange Point - Mogadishu",
-            "shortname": "SOIXP",
+            "shortname": "SoIXP",
             "city": "Mogadishu",
             "country": "Somalia",
             "cc": "SO",
