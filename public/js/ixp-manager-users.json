@@ -639,14 +639,14 @@
             "since": 0
         },
         {
-            "name": "SPEED-IX",
-            "shortname": "SPEED-IX",
-            "city": "Dronten",
-            "country": "The Netherlands",
-            "cc": "NL",
-            "url": "https://speed-ix.net/",
-            "ixf_id": 722,
-            "gps": [52.543666,5.703021],
+            "name": "Somali Internet Exchange Point - Mogadishu",
+            "shortname": "SOIXP",
+            "city": "Mogadishu",
+            "country": "Somalia",
+            "cc": "SO",
+            "url": "http://soixp.so/",
+            "ixf_id": null,
+            "gps": [2.040807,45.360510],
             "since": 2018
         },
         {
