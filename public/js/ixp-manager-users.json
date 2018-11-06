@@ -650,6 +650,17 @@
             "since": 2018
         },
         {
+            "name": "SPEED-IX",
+            "shortname": "SPEED-IX",
+            "city": "Dronten",
+            "country": "The Netherlands",
+            "cc": "NL",
+            "url": "https://speed-ix.net/",
+            "ixf_id": 722,
+            "gps": [52.543666,5.703021],
+            "since": 2018
+        },
+        {
             "name": "Stockholm Internet Exchange",
             "shortname": "STHIX",
             "city": "Stockholm",
