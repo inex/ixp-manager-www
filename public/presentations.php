@@ -7,23 +7,74 @@
 
 
 <p>
-    Barry O&#8217;Donovan and Nick Hilliard routinely give talks and workshops on IXP Manager. We&#8217;ve published the more recent ones below and, where video exists, we&#8217;ll also link to that.
+    Barry O&#8217;Donovan, Nick Hilliard (and some friends and supporters of IXP Manager) routinely give talks and workshops on IXP Manager. We&#8217;ve published the more recent ones below and, where video exists, we will also link to that.
 </p>
 
 <h3>2018</h3>
 <br>
 
 <h4>
-    <a href="https://laravellive.uk/" target="_blank">Laravel Live UK</a><br />
-    <small>London UK. June 2018.</small><br />
+    33rd Euro-IX Forum
+    &nbsp;&nbsp;
+    <a type="button" class="btn btn-xs btn-default" href="https://www.euro-ix.net/en/events/fora/33rd-euro-ix-forum/" target="_blank">
+        <span class="glyphicon glyphicon-link"></span>
+    </a><br>
+    <small>Venice, Italy. November 2018.</small><br>
+    <small>Barry O'Donovan, INEX</small><br>
+
+</h4>
+
+<ul>
+    <li>
+        RPKI, Route Servers and IXP Manager
+            [<a href="media/2018/20181106-euroix33-rpki.pdf">pdf</a>]<br>
+            <em>This is based on Nick's presentation at RIPE 77 (below). While not a IXP Manager
+                specific presentation, it does reference IXP Manager and
+                expand on our plans for RPKI.</em>
+    </li>
+</ul>
+<br>
+
+
+<h4>
+    RIPE 77
+    &nbsp;&nbsp;
+    <a type="button" class="btn btn-xs btn-default" href="https://ripe77.ripe.net/programme/meeting-plan/connect-wg/" target="_blank">
+        <span class="glyphicon glyphicon-link"></span>
+    </a><br>
+    <small>Amsterdam, Netherlands. October 2018.</small><br>
+    <small>Nick Hilliard, CTO, INEX</small><br>
+</h4>
+
+<ul>
+    <li>
+        RPKI at Route Servers
+        [<a href="media/2018/81-inex-ripe-amsterdam-connect-2018-10-17.pdf">pdf</a>]
+        [<a href="https://ripe77.ripe.net/archives/video/2242">video</a>]<br>
+        <em>While not a IXP Manager specific presentation, it does reference IXP Manager and
+        our plans for RPKI.</em>
+    </li>
+</ul>
+<br>
+
+
+<h4>
+    Laravel Live UK
+    &nbsp;&nbsp;
+    <a type="button" class="btn btn-xs btn-default" href="https://laravellive.uk/" target="_blank">
+        <span class="glyphicon glyphicon-link"></span>
+    </a>
+    <br />
+    <small>London UK. June 2018.</small><br>
+    <small>Barry O'Donovan, INEX</small><br>
 </h4>
 
 <ul>
     <li>
         Migrating Legacy Applications to PHP
             [<a href="media/2018/201806-LaravelLiveUK.pdf">pdf</a>]<br><br>
-            A PHP conference presentation on migrating legacy PHP applications 
-            to <a href="https://laravel.com/">Laravel</a> using our experiences 
+            A PHP conference presentation on migrating legacy PHP applications
+            to <a href="https://laravel.com/">Laravel</a> using our experiences
             with IXP Manager as a use-case example.
     </li>
 </ul>
@@ -44,21 +95,29 @@
 <br>
 
 <h4>
-    32nd Euro-IX Forum<br />
-    <small>Galway, Ireland. April 2018.</small>
+    32nd Euro-IX Forum
+    &nbsp;&nbsp;
+    <a type="button" class="btn btn-xs btn-default" href="https://www.euro-ix.net/en/events/fora/32nd-forum/" target="_blank">
+        <span class="glyphicon glyphicon-link"></span>
+    </a><br>
+    <small>Galway, Ireland. April 2018.</small><br>
+    <small>Barry O'Donovan, INEX</small><br>
+
 </h4>
 
 <ul>
     <li>
         IXP Manager Update &amp; Route Server Configuration
-            [<a href="media/2018/20180417-euroix-ixpmanager.pdf">pdf</a>]<br>
+            [<a href="media/2018/20180417-euroix-ixpmanager.pdf">pdf</a>]
+            [<a href="https://www.ixpmanager.org/videos/201804-euroix.mp4">video</a>]<br>
     </li>
 </ul>
 <br>
 
 <h4>
     APRICOT 2018 / APIX - IXP Manager Workshop.<br />
-    <small>Kathmandu, Nepal. February 25th 2018.</small>
+    <small>Kathmandu, Nepal. February 25th 2018.</small><br>
+    <small>Nick Hilliard, CTO, INEX</small><br>
 </h4>
 
 <ul>
