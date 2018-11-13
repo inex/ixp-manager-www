@@ -89,6 +89,17 @@
             "since": 0
         },
         {
+            "name": "Cameroon Internet Exchange Point",
+            "shortname": "CAMIX",
+            "city": "Yaounde",
+            "country": "Cameroon",
+            "cc": "CM",
+            "url": "",
+            "ixf_id": 528,
+            "gps": [3.8302938,11.3703663],
+            "since": 2016
+        },
+        {
             "name": "Cape Town Internet Exchange",
             "shortname": "CINX",
             "city": "Cape Town",
@@ -100,15 +111,15 @@
             "since": 0
         },
         {
-            "name": "Cameroon Internet Exchange Point",
-            "shortname": "CAMIX",
-            "city": "Yaounde",
-            "country": "Cameroon",
-            "cc": "CM",
-            "url": "",
-            "ixf_id": 528,
-            "gps": [3.8302938,11.3703663],
-            "since": 2016
+            "name": "Catalunya Neutral Internet eXchange",
+            "shortname": "CATNIX",
+            "city": "Barcelona",
+            "country": "Spain",
+            "cc": "ES",
+            "url": "http://www.catnix.net/",
+            "ixf_id": 11,
+            "gps": [41.3871984,2.1088338],
+            "since": 2018
         },
         {
             "name": "Chicago IX - United Internet Exchange",
