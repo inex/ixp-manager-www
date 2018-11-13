@@ -14,7 +14,7 @@
     // RewriteRule ^.*$ - [NC,L]
     // RewriteRule ^.*$ /index.php [NC,L]
 
-    if( $req == '/' || $req == '/index' || $req == 'index.php' ) {
+    if( $req == '/' || $req == '/index' || $req == 'index.php' || preg_match( '/^\/\?.*$/', $req ) ) {
         // do nothing
     } elseif( preg_match( '/^\/[a-z0-9]+$/', $req ) && file_exists( __DIR__ . '/' . $req . '.php' ) ) {
         include( __DIR__ . '/' . $req . '.php' );

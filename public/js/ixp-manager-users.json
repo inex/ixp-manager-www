@@ -650,6 +650,17 @@
             "since": 0
         },
         {
+            "name": "Somali Internet Exchange Point - Mogadishu",
+            "shortname": "SoIXP",
+            "city": "Mogadishu",
+            "country": "Somalia",
+            "cc": "SO",
+            "url": "http://soixp.so/",
+            "ixf_id": 754,
+            "gps": [2.040807,45.360510],
+            "since": 2018
+        },
+        {
             "name": "SPEED-IX",
             "shortname": "SPEED-IX",
             "city": "Dronten",
