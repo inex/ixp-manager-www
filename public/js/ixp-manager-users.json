@@ -243,6 +243,17 @@
             "since": 2018
         },
         {
+            "name": "GetaFIX",
+            "shortname": "GetaFIX",
+            "city": "Manila",
+            "country": "Philippines",
+            "cc": "PH",
+            "url": "https://getafix.ph/",
+            "ixf_id": null,
+            "gps": [14.312033, 121.049228],
+            "since": 2018
+        },
+        {
             "name": "Giganet :: Ukrainian Internet Exchange",
             "shortname": "Giganet",
             "city": null,
