@@ -27,7 +27,8 @@
 <ul>
     <li>
         RPKI, Route Servers and IXP Manager
-            [<a href="media/2018/20181106-euroix33-rpki.pdf">pdf</a>]<br>
+            [<a href="media/2018/20181106-euroix33-rpki.pdf">pdf</a>]
+            [<a href="https://www.ixpmanager.org/videos/201811-euroix.mp4">video</a>]<br>
             <em>This is based on Nick's presentation at RIPE 77 (below). While not a IXP Manager
                 specific presentation, it does reference IXP Manager and
                 expand on our plans for RPKI.</em>
