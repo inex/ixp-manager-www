@@ -89,6 +89,17 @@
             "since": 0
         },
         {
+            "name": "Bhutan Internet Exchange",
+            "shortname": "btIX",
+            "city": "Thimphu",
+            "country": "Bhutan",
+            "cc": "BT",
+            "url": "https://www.btix.bt/",
+            "ixf_id": null,
+            "gps": [27.4277805,89.6487942],
+            "since": 2018
+        },
+        {
             "name": "Cameroon Internet Exchange Point",
             "shortname": "CAMIX",
             "city": "Yaounde",
