@@ -650,6 +650,17 @@
             "since": 0
         },
         {
+            "name": "Silk Road IX",
+            "shortname": "SR-IX",
+            "city": "Bishkek, Osh",
+            "country": "Kyrgyz Republic",
+            "cc": "KG",
+            "url": "http://sr-ix.in.kg/",
+            "ixf_id": null,
+            "gps": [42.8746,74.567606],
+            "since": 2019
+        },
+        {
             "name": "Slovenian Internet eXchange",
             "shortname": "SIX",
             "city": "Ljubljana",
