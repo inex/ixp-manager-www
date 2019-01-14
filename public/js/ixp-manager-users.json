@@ -29,7 +29,7 @@
             "country": "Albania",
             "cc": "AL",
             "url": "https://www.anix.al/",
-            "ixf_id": null,
+            "ixf_id": 746,
             "gps": [41.332558, 19.807102],
             "since": 2018
         },
@@ -95,7 +95,7 @@
             "country": "Bhutan",
             "cc": "BT",
             "url": "https://www.btix.bt/",
-            "ixf_id": null,
+            "ixf_id": 757,
             "gps": [27.4277805,89.6487942],
             "since": 2018
         },
@@ -656,7 +656,7 @@
             "country": "Kyrgyz Republic",
             "cc": "KG",
             "url": "http://sr-ix.in.kg/",
-            "ixf_id": null,
+            "ixf_id": 758,
             "gps": [42.8746,74.567606],
             "since": 2019
         },
