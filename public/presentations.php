@@ -24,11 +24,11 @@
     <li>
         IXP Route Servers with RPKI and IXP Manager
             [<a href="media/2019/201902-apricot-rpki.pdf">pdf</a>] 
-            [<a href="https://youtu.be/cqhJwuBaxxQ?t=1549">video</a>]<br>
-            <em>In the presentation, we propose a best-practice integration of RPKI into the current 
+            [<a href="https://youtu.be/cqhJwuBaxxQ?t=1549">video</a>]<br><br>
+            In the presentation, we propose a best-practice integration of RPKI into the current 
             IX route server context which still includes IRR support. We present the development 
             work we have completed with IXP Manager to support RPKI and discuss our experiences 
-            at putting this live at INEX.</em>
+            at putting this live at INEX.
     </li>
 </ul>
 <br>
@@ -43,9 +43,9 @@
 <ul>
     <li>
         IXP Manager
-            [<a href="media/2019/apix19-201902-ixp-manager.pdf">pdf</a>]<br>
-            <em>An introduction to IXP Manager for the APIX audience. Also provides a 
-            general update on the state of IXP Manager as of Feb 2019.</em>
+            [<a href="media/2019/apix19-201902-ixp-manager.pdf">pdf</a>]<br><br>
+            An introduction to IXP Manager for the APIX audience. Also provides a 
+            general update on the state of IXP Manager as of Feb 2019.
     </li>
 </ul>
 <br>
@@ -68,10 +68,10 @@
     <li>
         RPKI, Route Servers and IXP Manager
             [<a href="media/2018/20181106-euroix33-rpki.pdf">pdf</a>]
-            [<a href="https://www.ixpmanager.org/videos/201811-euroix.mp4">video</a>]<br>
-            <em>This is based on Nick's presentation at RIPE 77 (below). While not a IXP Manager
+            [<a href="https://www.ixpmanager.org/videos/201811-euroix.mp4">video</a>]<br><br>
+            This is based on Nick's presentation at RIPE 77 (below). While not a IXP Manager
                 specific presentation, it does reference IXP Manager and
-                expand on our plans for RPKI.</em>
+                expand on our plans for RPKI.
     </li>
 </ul>
 <br>
@@ -91,9 +91,9 @@
     <li>
         RPKI at Route Servers
         [<a href="media/2018/81-inex-ripe-amsterdam-connect-2018-10-17.pdf">pdf</a>]
-        [<a href="https://ripe77.ripe.net/archives/video/2242">video</a>]<br>
-        <em>While not a IXP Manager specific presentation, it does reference IXP Manager and
-        our plans for RPKI.</em>
+        [<a href="https://ripe77.ripe.net/archives/video/2242">video</a>]<br><br>
+        While not a IXP Manager specific presentation, it does reference IXP Manager and
+        our plans for RPKI.
     </li>
 </ul>
 <br>
