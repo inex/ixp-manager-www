@@ -10,6 +10,26 @@
     Barry O&#8217;Donovan, Nick Hilliard (and some friends and supporters of IXP Manager) routinely give talks and workshops on IXP Manager. We&#8217;ve published the more recent ones below and, where video exists, we will also link to that.
 </p>
 
+<h3>2019</h3>
+<br>
+
+<h4>
+    APIX 19 (Asia Pacific Internet Exchange Association)<br>
+    <small>Daejeon, South Korea. February 24th 2019</small><br>
+    <small>Barry O'Donovan, INEX</small><br>
+
+</h4>
+
+<ul>
+    <li>
+        IXP Manager
+            [<a href="media/2019/apix19-201902-ixp-manager.pdf">pdf</a>]<br>
+            <em>An introduction to IXP Manager for the APIX audience. Also provides a 
+            general update on the state of IXP Manager as of Feb 2019.</em>
+    </li>
+</ul>
+<br>
+
 <h3>2018</h3>
 <br>
 
