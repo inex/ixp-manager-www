@@ -133,7 +133,7 @@
                     </ul>
               </li>
               <li> mention the OS you are running IXP Manager on (including Linux variant if relevant) </li>
-              <li> mention the version of IXP Manager you are running (output from <tt>cat $IXPROOT/library/IXP/Version.php | grep APPLICATION</tt>); </li>
+              <li> mention the version of IXP Manager you are running (<tt>$IXPROOT/version.php</tt> for >= v4.9.0 / <tt>$IXPROOT/library/IXP/Version.php</tt> for older versions); </li>
               <li> mention the version of PHP you have (<tt>php -v</tt>) </li>
               <li> provide anything else you think might help someone solve your problem. </li>
 
