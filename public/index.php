@@ -1,6 +1,11 @@
 <?php
 
     $req = strtolower( $_SERVER['REQUEST_URI'] );
+    // stript facebook params
+    if( strpos( $req, '?' ) ) {
+        $req = substr( $req, 0, strpos( $req, '?' ) );
+    }
+    
     $h404 = false;
 
     // Requires:
@@ -13,6 +18,8 @@
     // RewriteCond %{REQUEST_FILENAME} -d
     // RewriteRule ^.*$ - [NC,L]
     // RewriteRule ^.*$ /index.php [NC,L]
+
+
 
     if( $req == '/' || $req == '/index' || $req == 'index.php' || preg_match( '/^\/\?.*$/', $req ) ) {
         // do nothing
