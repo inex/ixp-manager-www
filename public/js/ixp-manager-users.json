@@ -441,6 +441,17 @@
             "since": 0
         },
         {
+            "name": "Kuwait Internet Exchange",
+            "shortname": "ix.kw",
+            "city": "Kuwait City",
+            "country": "Kuwait",
+            "cc": "KW",
+            "url": "https://ix.kw",
+            "ixf_id": 762,
+            "gps": [29.36819,47.97441],
+            "since": 0
+        },
+        {
             "name": "LONAP Limited",
             "shortname": "LONAP",
             "city": "London",
