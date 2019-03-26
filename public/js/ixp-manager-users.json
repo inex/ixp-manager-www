@@ -67,6 +67,17 @@
             "since": 0
         },
         {
+            "name": "Baltimore Internet Exchange",
+            "shortname": "Baltimore IX",
+            "city": "Baltimore",
+            "country": "USA",
+            "cc": "US",
+            "url": "https://baltimoreix.net",
+            "ixf_id": 0,
+            "gps": [39.291778,-76.620092],
+            "since": 0
+        },
+        {
             "name": "Bangkok Neutral Internet Exchange",
             "shortname": "BKNIX",
             "city": "Bangkok",
