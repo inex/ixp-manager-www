@@ -14,7 +14,41 @@
 <br>
 
 <h4>
-    APRICOT 2019 (Asia Pacific Regional Internet Conference on Operational Technologies)<br>
+    GPF14<br>
+    <small>Montréal, Canada. April 9th - 12th 2019</small><br>
+    <small>Barry O'Donovan, INEX</small><br>
+
+</h4>
+
+<ul>
+    <li>
+        IXP Route Servers with RPKI and IXP Manager
+            [<a href="media/2019/201904-inex-gpf14-rpki.pdf">pdf</a>]<br><br>
+            Updated version of the APRICOT 2019 presentation below. A best-practice integration 
+            of RPKI into the current IX route server context which still includes IRR support. 
+    </li>
+</ul>
+<br>
+
+<h4>
+    34th Euro-IX Forum<br>
+    <small>Toulouse, France. March 31st - April 2nd 2019</small><br>
+    <small>Nick Hilliard, CTO, INEX</small><br>
+
+</h4>
+
+<ul>
+    <li>
+        INEX's Shiny New Route Servers
+            [<a href="media/2019/inex-euro-ix-toulouse-rpki-2019-04-02.pdf">pdf</a>]
+    </li>
+</ul>
+<br>
+
+
+
+<h4>
+    APRICOT 2019<br>
     <small>Daejeon, South Korea. February 18 - 28th 2019</small><br>
     <small>Barry O'Donovan, INEX</small><br>
 
@@ -23,7 +57,8 @@
 <ul>
     <li>
         IXP Route Servers with RPKI and IXP Manager
-            [<a href="media/2019/201902-apricot-rpki.pdf">pdf</a>] 
+            [<a href="media/2019/201902-apricot-rpki.pdf">pdf</a>]
+            [<a href="https://2019.apricot.net/program/schedule/#/day/10/routing-security-2">schedule</a>] 
             [<a href="https://youtu.be/cqhJwuBaxxQ?t=1549">video</a>]<br><br>
             In the presentation, we propose a best-practice integration of RPKI into the current 
             IX route server context which still includes IRR support. We present the development 

@@ -6,7 +6,8 @@
 <h2>Sponsors</h2>
 
 <p class="lead">
-    Continued developement and support of IXP Manager requires sponsorship and we are always looking for new sponsors. If you think you can help us, please see <a href="/sponsorship">our call for sponsorship</a>.
+    Continued developement and support of IXP Manager requires sponsorship and we are always looking for new sponsors. If you think you can help us, please see <a href="/sponsorship">our call for sponsorship</a>
+    or contact us via <a href="mailto:sponsorship@ixpmanager.org">sponsorship@ixpmanager.org</a>.
     <br><br>
     <b>The below organisations are the current sponsors of IXP Manager and we thank them for their continued support.</b>
 </p>
