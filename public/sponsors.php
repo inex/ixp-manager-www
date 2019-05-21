@@ -58,10 +58,13 @@
   </div>
   <div class="col-sm-8 sponsor-div">
       <a href="https://www.apnic.net/">
-          <img src="images/logos/apnic.png" width="170" style="margin: 10px;" />
+          <img src="images/logos/apnic.png" width="120" style="margin: 10px;" />
+      </a>
+      <a href="https://www.inx.net.za/">
+          <img src="images/logos/inx-za.png" width="120" style="margin: 10px;" />
       </a>
       <a href="http://www.sthix.net/">
-          <img src="images/logos/sthix.png" width="150" style="margin: 10px;" />
+          <img src="images/logos/sthix.png" width="120" style="margin: 10px;" />
       </a>
   </div>
 </div>

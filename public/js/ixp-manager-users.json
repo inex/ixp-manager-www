@@ -127,7 +127,7 @@
             "city": "Cape Town",
             "country": "South Africa",
             "cc": "ZA",
-            "url": "https://wiki.inx.net.za/display/pub/CINX+-+Cape+Town+Internet+Exchange",
+            "url": "https://www.inx.net.za/",
             "ixf_id": 209,
             "gps": [-33.9249,18.4241009],
             "since": 0
@@ -226,7 +226,7 @@
             "city": "Durban",
             "country": "South Africa",
             "cc": "ZA",
-            "url": "https://wiki.inx.net.za/display/pub/DINX+-+Durban+Internet+Exchange",
+            "url": "https://www.inx.net.za/",
             "ixf_id": 487,
             "gps": [-29.778832,30.9897693],
             "since": 0
@@ -424,7 +424,7 @@
             "city": "Johannesburg",
             "country": "South Africa",
             "cc": "ZA",
-            "url": "https://wiki.inx.net.za/display/pub/JINX+-+Johannesburg+Internet+Exchange",
+            "url": "https://www.inx.net.za/",
             "ixf_id": 95,
             "gps": [-26.2040997,28.0473003],
             "since": 0
