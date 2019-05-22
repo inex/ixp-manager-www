@@ -7,11 +7,28 @@
 
 
 <p>
-    Barry O&#8217;Donovan, Nick Hilliard (and some friends and supporters of IXP Manager) routinely give talks and workshops on IXP Manager. We&#8217;ve published the more recent ones below and, where video exists, we will also link to that.
+    Barry O&#8217;Donovan and Nick Hilliard (and some friends and supporters of IXP Manager) routinely give talks and workshops on IXP Manager. We&#8217;ve published the more recent ones below and, where video exists, we will also link to that.
 </p>
 
 <h3>2019</h3>
 <br>
+
+<h4>
+    RIPE 78<br>
+    <small>Reykjavík, Iceland. May 20th - 24th 2019</small><br>
+    <small>Nick Hilliard, CTO, INEX</small><br>
+</h4>
+
+<ul>
+    <li>
+        INEX's RPKI Implementation
+            [<a href="media/2019/201905-ripe78.pdf">pdf</a>]
+            [<a href="https://ripe78.ripe.net/archives/video/53/">video</a>]
+    </li>
+</ul>
+<br>
+
+
 
 <h4>
     GPF14<br>
@@ -24,8 +41,8 @@
     <li>
         IXP Route Servers with RPKI and IXP Manager
             [<a href="media/2019/201904-inex-gpf14-rpki.pdf">pdf</a>]<br><br>
-            Updated version of the APRICOT 2019 presentation below. A best-practice integration 
-            of RPKI into the current IX route server context which still includes IRR support. 
+            Updated version of the APRICOT 2019 presentation below. A best-practice integration
+            of RPKI into the current IX route server context which still includes IRR support.
     </li>
 </ul>
 <br>
@@ -58,11 +75,11 @@
     <li>
         IXP Route Servers with RPKI and IXP Manager
             [<a href="media/2019/201902-apricot-rpki.pdf">pdf</a>]
-            [<a href="https://2019.apricot.net/program/schedule/#/day/10/routing-security-2">schedule</a>] 
+            [<a href="https://2019.apricot.net/program/schedule/#/day/10/routing-security-2">schedule</a>]
             [<a href="https://youtu.be/cqhJwuBaxxQ?t=1549">video</a>]<br><br>
-            In the presentation, we propose a best-practice integration of RPKI into the current 
-            IX route server context which still includes IRR support. We present the development 
-            work we have completed with IXP Manager to support RPKI and discuss our experiences 
+            In the presentation, we propose a best-practice integration of RPKI into the current
+            IX route server context which still includes IRR support. We present the development
+            work we have completed with IXP Manager to support RPKI and discuss our experiences
             at putting this live at INEX.
     </li>
 </ul>
@@ -79,7 +96,7 @@
     <li>
         IXP Manager
             [<a href="media/2019/apix19-201902-ixp-manager.pdf">pdf</a>]<br><br>
-            An introduction to IXP Manager for the APIX audience. Also provides a 
+            An introduction to IXP Manager for the APIX audience. Also provides a
             general update on the state of IXP Manager as of Feb 2019.
     </li>
 </ul>
