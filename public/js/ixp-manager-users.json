@@ -309,6 +309,17 @@
             "since": 0
         },
         {
+            "name": "Haiti Internet eXchange Point",
+            "shortname": "HIXP",
+            "city": "Port au Prince",
+            "country": "Haiti",
+            "cc": "HT",
+            "url": "https://www.peeringdb.com/ix/573",
+            "ixf_id": null,
+            "gps": [18.5790339,-72.3194793],
+            "since": 2019
+        },
+        {
             "name": "Halifax Internet Exchange",
             "shortname": "HFXIX",
             "city": "Halifax",
