@@ -82,6 +82,10 @@
           <img src="images/logos/interlan.png" width="100" style="margin: 10px;" />
       </a>
       &nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://www.namex.it/">
+          <img src="images/logos/namex.png" width="100" style="margin: 10px;" />
+      </a>
+      &nbsp;&nbsp;&nbsp;&nbsp;
       <a href="http://www.uio.no/tjenester/it/nett/fastnett/nix/info-english-short.html">
           <img src="images/logos/nix.png" width="100" style="margin: 10px;" />
       </a>
