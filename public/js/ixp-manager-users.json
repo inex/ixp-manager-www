@@ -45,17 +45,6 @@
             "since": 2017
         },
         {
-            "name": "Arusha Internet eXchange Point",
-            "shortname": "AIXP",
-            "city": "Arusha",
-            "country": "Tanzania",
-            "cc": "TZ",
-            "url": "http://www.aixp.or.tz/",
-            "ixf_id": 212,
-            "gps": [-3.3981431,36.6421075],
-            "since": 0
-        },
-        {
             "name": "Baltic Internet Exchange",
             "shortname": "Balt-IX",
             "city": "Vilnius",
@@ -757,17 +746,6 @@
             "url": "https://www.swissix.ch/",
             "ixf_id": 34,
             "gps": [47.387990,8.520176],
-            "since": 0
-        },
-        {
-            "name": "Tanzania Internet eXchange Point",
-            "shortname": "TIX",
-            "city": "Dar es Salaam",
-            "country": "Tanzania",
-            "cc": "TZ",
-            "url": "http://www.tix.or.tz/",
-            "ixf_id": 50,
-            "gps": [-6.8138351,39.2893366],
             "since": 0
         },
         {
