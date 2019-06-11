@@ -474,6 +474,17 @@
             "since": 0
         },
         {
+            "name": "Local Internet Exchange",
+            "shortname": "LocIX",
+            "city": "Frankfurt",
+            "country": "Germany",
+            "cc": "DE",
+            "url": "https://locix.online/",
+            "ixf_id": 775,
+            "gps": [50.1106444, 8.6820917],
+            "since": 2019
+        },
+        {
             "name": "LONAP Limited",
             "shortname": "LONAP",
             "city": "London",
@@ -560,6 +571,17 @@
             "ixf_id": 724,
             "gps": [39.5195551,-0.4693843],
             "since": 0
+        },
+        {
+            "name": "Netherland Local Internet Exchange",
+            "shortname": "NLocIX",
+            "city": "Meppel",
+            "country": "Netherlands",
+            "cc": "NL",
+            "url": "https://www.nlocix.net/",
+            "ixf_id": 774,
+            "gps": [52.71174435, 6.197307325],
+            "since": 2019
         },
         {
             "name": "Northern New England Neutral Internet Exchange",
