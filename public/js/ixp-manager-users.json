@@ -188,7 +188,7 @@
             "since": 0
         },
         {
-            "name": "Danish Internet Exchange Point ",
+            "name": "Danish Internet Exchange Point",
             "shortname": "DIX",
             "city": "",
             "country": "Denmark",
@@ -197,6 +197,17 @@
             "ixf_id": 29,
             "gps": [55.6879765,12.5259387],
             "since": 0
+        },
+        {
+            "name": "Djibouti Internet Exchange",
+            "shortname": "DjIX",
+            "city": "Djibouti",
+            "country": "Djibouti",
+            "cc": "DJ",
+            "url": "http://www.djix.dj/",
+            "ixf_id": 549,
+            "gps": [11.573078, 43.160920],
+            "since": 2019
         },
         {
             "name": "Dortmund Internet eXchange",
