@@ -254,6 +254,17 @@
             "since": 0
         },
         {
+            "name": "Gabon Internet eXchange",
+            "shortname": "GABIX",
+            "city": "Libreville",
+            "country": "GABON",
+            "cc": "GA",
+            "url": "https://www.gabix.ga/",
+            "ixf_id": null,
+            "gps": [0.420954,9.452268],
+            "since": 2019
+        },
+        {
             "name": "Georgian Internet Exchange",
             "shortname": "GIX",
             "city": "Tbilisi",
