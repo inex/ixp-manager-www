@@ -441,6 +441,17 @@
             "since": 2016
         },
         {
+            "name": "Jakarta Internet Exchange",
+            "shortname": "JKT-IX",
+            "city": "Jakarta",
+            "country": "Indonesia",
+            "cc": "ID",
+            "url": "https://www.glc.ntt.com/en/services/service-in-indonesia/data-center/internet-exchange.html",
+            "ixf_id": null,
+            "gps": [-6.2037947,106.818106],
+            "since": 2019
+        },
+        {
             "name": "Johannesburg Internet Exchange",
             "shortname": "JINX",
             "city": "Johannesburg",
