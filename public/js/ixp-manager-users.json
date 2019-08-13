@@ -397,6 +397,17 @@
             "since": 0
         },
         {
+            "name": "IX-Denver",
+            "shortname": "IX-Denver",
+            "city": "Denver",
+            "country": "USA",
+            "cc": "US",
+            "url": "https://ix-denver.org/",
+            "ixf_id": 650,
+            "gps": [39.745636,-104.997825],
+            "since": 2018
+        },
+        {
             "name": "IX-Durban at NAPAfrica",
             "shortname": "IX-Durban",
             "city": "Durban",
