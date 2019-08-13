@@ -661,6 +661,17 @@
             "since": 0
         },
         {
+            "name": "Ottawa Gatineau Internet Exchange",
+            "shortname": "OGIX",
+            "city": "Ottawa",
+            "country": "Canada",
+            "cc": "CA",
+            "url": "https://www.ogix.ca/",
+            "ixf_id": null,
+            "gps": [45.335349, -75.906163],
+            "since": 2019
+        },
+        {
             "name": "Phoenix-IX",
             "shortname": "Phoenix-IX",
             "city": "Arizona",
