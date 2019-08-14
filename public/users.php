@@ -39,6 +39,9 @@ END_HEADER;
     listed above (or you want to change your entry), please email
     <a href="mailto:operations@inex.ie">operations@inex.ie</a> with your IXP's:
     full name, short name, city / region / country, GPS co-ordinates and website URL.
+    If you are on Twitter or other social platforms, include those details also and
+    we'll give you a shout out. And feel free to hit us up
+    <a href="https://twitter.com/ixpmanager">@ixpmanager</a>.
 </p>
 
 <h3>IXP Manager Users</h3>
