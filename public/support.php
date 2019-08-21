@@ -124,7 +124,7 @@
               <li> always provide detailed steps to reproduce an issue; </li>
               <li> always test if the latest release is affected. Bug reports on older releases cannot be accepted and will be closed; </li>
               <li> provide relevant snippnets of your <tt>.env</tt> (or all of it after removing keys, passwords, etc.) </li>
-              <li> copy all relevant logs to an online pastebin such as <a href="http://p.ip.fi/">this one</a> and place the URL
+              <li> copy all relevant logs to an online pastebin such as <a href="https://pastebin.ibn.ie/">our own one</a> and place the URL
                   you receive from the pastebin into your email. Logs will usually be found under <tt>$IXPROOT/storage/logs/...</tt>.
                   Our mailing list has size and attachement restrictions, as such:
                     <ul>
