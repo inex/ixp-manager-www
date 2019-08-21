@@ -265,6 +265,17 @@
             "since": 2019
         },
         {
+            "name": "Gavlix - Operated by Interlan Networks AB",
+            "shortname": "GAVLIX",
+            "city": "Gävle",
+            "country": "Sweden",
+            "cc": "SE",
+            "url": "http://www.gavlix.se/",
+            "ixf_id": 813,
+            "gps": [-60.676776, 17.143359],
+            "since": 2019
+        },
+        {
             "name": "Georgian Internet Exchange",
             "shortname": "GIX",
             "city": "Tbilisi",
