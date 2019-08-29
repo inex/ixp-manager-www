@@ -15,12 +15,22 @@
     to look at a more sustainable funding model and hire a full time developer.
 </p>
 <p class="lead">
-    Our original call for funding document (including year one development plan and
-    year two and three outlook) can be
-    <a href="/media/2016/2016-02-Funding-Model-1.4.pdf">downloaded here</a>. A public
-    version of our 2017 year end report to the sponsors' can also be
-    <a href="/media/2017/2017-10-SponsorsReport-Public.pdf">downloaded here</a>.
+    we have published a number of documents relating to the sponsorship program:
 </p>
+
+<ul>
+    <li> Our original call for funding document (including year one development plan and
+    year two and three outlook) can be
+    <a href="/media/2016/2016-02-Funding-Model-1.4.pdf">downloaded here</a>.
+    </li>
+    <li> A public version of our 2017 year end report to the sponsors' can be
+    <a href="/media/2017/2017-10-SponsorsReport-Public.pdf">downloaded here</a>. 
+    </li>
+    <li> A public version of our 2018 year end report to the sponsors' can be
+    <a href="/media/2018/2018-12-SponsorsReport.pdf">downloaded here</a>. 
+    </li>
+    
+</ul>
 <p>
     If you'd like to discuss sponsoring IXP Manager, please contact Barry O'Donovan / Nick Hilliard
     via <a href="mailto:sponsorship@ixpmanager.org">sponsorship@ixpmanager.org</a>.
