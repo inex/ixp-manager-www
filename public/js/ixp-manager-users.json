@@ -543,7 +543,7 @@
             "name": "Massachusetts Internet Exchange",
             "shortname": "MASS IX",
             "city": "Boston",
-            "country": "US",
+            "country": "USA",
             "cc": "US",
             "url": "http://www.mass-ix.net/",
             "ixf_id": 665,
@@ -551,10 +551,21 @@
             "since": 2017
         },
         {
+            "name": "Madagascar Global Internet eXchange",
+            "shortname": "MGIx",
+            "city": "Antananarivo",
+            "country": "Madagascar",
+            "cc": "MG",
+            "url": "https://www.mgix.mg/",
+            "ixf_id": 685,
+            "gps": [-18.8875029,47.4423024],
+            "since": 2019
+        },
+        {
             "name": "Midwest-IX Indianapolis",
             "shortname": "M-IX-Indy",
             "city": "Indianapolis, Indiana",
-            "country": "US",
+            "country": "USA",
             "cc": "US",
             "url": "http://www.midwest-ix.com/",
             "ixf_id": 653,
