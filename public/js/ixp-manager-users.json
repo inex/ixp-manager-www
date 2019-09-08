@@ -716,6 +716,17 @@
             "since": 0
         },
         {
+            "name": "PIt Peru",
+            "shortname": "PIT-PERU",
+            "city": "Lima",
+            "country": "Peru",
+            "cc": "PE",
+            "url": "https://www.pitperu.net/",
+            "ixf_id": 825,
+            "gps": [-12.0941011,-76.9821017],
+            "since": 2019
+        },
+        {
             "name": "Pittsburgh Internet Exchange",
             "shortname": "PIT-IX",
             "city": "Pittsburgh",
