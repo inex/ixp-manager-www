@@ -14,21 +14,6 @@
 <br>
 
 <h4>
-    RIPE 78<br>
-    <small>Reykjavík, Iceland. May 20th - 24th 2019</small><br>
-    <small>Nick Hilliard, CTO, INEX</small><br>
-</h4>
-
-<ul>
-    <li>
-        INEX's RPKI Implementation
-            [<a href="media/2019/201905-ripe78.pdf">pdf</a>]
-            [<a href="https://ripe78.ripe.net/archives/video/53/">video</a>]
-    </li>
-</ul>
-<br>
-
-<h4>
     AfPIF 10<br>
     <small>Balaclava, Mauritius. August 19th - 22th 2019</small><br>
     <small>Nick Hilliard, CTO, INEX</small><br>
@@ -51,6 +36,21 @@
 <br>
 
 
+
+<h4>
+    RIPE 78<br>
+    <small>Reykjavík, Iceland. May 20th - 24th 2019</small><br>
+    <small>Nick Hilliard, CTO, INEX</small><br>
+</h4>
+
+<ul>
+    <li>
+        INEX's RPKI Implementation
+            [<a href="media/2019/201905-ripe78.pdf">pdf</a>]
+            [<a href="https://ripe78.ripe.net/archives/video/53/">video</a>]
+    </li>
+</ul>
+<br>
 
 <h4>
     GPF14<br>
