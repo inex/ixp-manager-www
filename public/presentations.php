@@ -28,6 +28,28 @@
 </ul>
 <br>
 
+<h4>
+    AfPIF 10<br>
+    <small>Balaclava, Mauritius. August 19th - 22th 2019</small><br>
+    <small>Nick Hilliard, CTO, INEX</small><br>
+</h4>
+
+<ul>
+    <li>
+        AfIX - IXP Manager Introduction
+            [<a href="media/2019/inex-afix-mauritius-ixp-manager-introduction-2019-08-19.pdf">pdf</a>]
+    </li>
+    <li>
+        IXP Manager Installation Tutorial
+            [<a href="media/2019/inex-afpif-mauritius-ixp-manager-installation-2019-08-22.pdf">pdf</a>]
+    </li>
+    <li>
+        RPKI at Route Servers
+            [<a href="media/2019/inex-afpif-mauritius-rpki-2019-08-22.pdf">pdf</a>]
+    </li>
+</ul>
+<br>
+
 
 
 <h4>
