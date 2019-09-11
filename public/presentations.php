@@ -13,6 +13,21 @@
 <h3>2019</h3>
 <br>
 
+
+<h4>
+    UKNOF 44<br>
+    <small>Belfast, Northern Ireland. September 10th 2019</small><br>
+    <small>Barry O'Donovan, INEX</small><br>
+</h4>
+
+<ul>
+    <li>
+        IXP Route Servers with RPKI
+            [<a href="media/2019/2019-09-10-uknof44-inex-barryodonovan.pdf">pdf</a>]
+    </li>
+</ul>
+<br>
+
 <h4>
     AfPIF 10<br>
     <small>Balaclava, Mauritius. August 19th - 22th 2019</small><br>
@@ -31,6 +46,7 @@
     <li>
         RPKI at Route Servers
             [<a href="media/2019/inex-afpif-mauritius-rpki-2019-08-22.pdf">pdf</a>]
+            [<a href="https://livestream.com/internetsociety/afpif2019/videos/195358214">video</a>]
     </li>
 </ul>
 <br>
@@ -80,6 +96,7 @@
     <li>
         INEX's Shiny New Route Servers
             [<a href="media/2019/inex-euro-ix-toulouse-rpki-2019-04-02.pdf">pdf</a>]
+            [<a href="media/2019/inex-euro-ix-toulouse-rpki-2019-04-02.mp4">video</a>]
     </li>
 </ul>
 <br>
