@@ -24,6 +24,7 @@
     <li>
         IXP Route Servers with RPKI
             [<a href="media/2019/2019-09-10-uknof44-inex-barryodonovan.pdf">pdf</a>]
+            [<a href="https://www.youtube.com/watch?v=dEVNXFPD2FI">video</a>]
     </li>
 </ul>
 <br>
