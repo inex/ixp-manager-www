@@ -859,6 +859,17 @@
             "since": 0
         },
         {
+            "name": "UEPG Internet Exchange",
+            "shortname": "IX UEPG",
+            "city": "Ponta Grossa, Parana",
+            "country": "Brazil",
+            "cc": "BR",
+            "url": "https://ix.uepg.br/",
+            "ixf_id": null,
+            "gps": [-25.094868,-50.103872],
+            "since": 2019
+        },
+        {
             "name": "The Uganda Internet eXchange Point",
             "shortname": "UIXP",
             "city": null,
