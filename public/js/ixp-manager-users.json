@@ -518,6 +518,17 @@
             "since": 0
         },
         {
+            "name": "Lille Internet Exchange",
+            "shortname": "LILLIX",
+            "city": "Lille",
+            "country": "France",
+            "cc": "FR",
+            "url": "http://www.lillix.fr/",
+            "ixf_id": 433,
+            "gps": [50.6311167,3.0121412],
+            "since": 2019
+        },
+        {
             "name": "Local Internet Exchange",
             "shortname": "LocIX",
             "city": "Frankfurt",
