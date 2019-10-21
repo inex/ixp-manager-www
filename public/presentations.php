@@ -15,6 +15,26 @@
 
 
 <h4>
+    35th Euro-IX Forum<br>
+    <small>Zaandam, Netherlands. October 20th - 22nd 2019</small><br>
+    <small>Barry O'Donovan, INEX</small><br>
+
+</h4>
+
+<ul>
+    <li>
+        OAuth for IXP Operators
+        [<a href="media/2019/euroix-201910-euroix35-oauth-for-ixps.pdf">pdf</a>]
+        <br><br>
+        A presentation introducing OAuth 2.0 to network operators with a real world example
+        of how we developed <em>Login with PeeringDB</em> support for IXP Manager.
+    </li>
+</ul>
+<br>
+
+
+
+<h4>
     UKNOF 44<br>
     <small>Belfast, Northern Ireland. September 10th 2019</small><br>
     <small>Barry O'Donovan, INEX</small><br>
