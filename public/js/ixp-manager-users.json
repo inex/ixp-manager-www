@@ -870,6 +870,17 @@
             "since": 0
         },
         {
+            "name": "Texas-IX",
+            "shortname": "Texas-IX",
+            "city": "Texas",
+            "country": "USA",
+            "cc": "US",
+            "url": "http://texas-ix.us/",
+            "ixf_id": null,
+            "gps": [29.433652,-94.9664912],
+            "since": 2020
+        },
+        {
             "name": "UEPG Internet Exchange",
             "shortname": "IX UEPG",
             "city": "Ponta Grossa, Parana",
