@@ -71,11 +71,22 @@
             "shortname": "BKNIX",
             "city": "Bangkok",
             "country": "Thailand",
-            "cc": "th",
+            "cc": "TH",
             "url": "https://bknix.co.th/en/",
             "ixf_id": 587,
             "gps": [13.7037519,100.5662886],
             "since": 0
+        },
+        {
+            "name": "Batam Internet Exchange",
+            "shortname": "BatamIX",
+            "city": "Batam, Kepuluan Riau",
+            "country": "Thailand",
+            "cc": "TH",
+            "url": "https://batamix.net/",
+            "ixf_id": 845,
+            "gps": [1.118673, 104.048442],
+            "since": 2020
         },
         {
             "name": "Berlin Commercial Internet Exchange",
