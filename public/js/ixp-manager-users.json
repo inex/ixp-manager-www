@@ -881,6 +881,17 @@
             "since": 0
         },
         {
+            "name": "Tehran IX",
+            "shortname": "TIX",
+            "city": "Tehran",
+            "country": "Iran",
+            "cc": "IR",
+            "url": "https://tehran-ix.ir/",
+            "ixf_id": null,
+            "gps": [35.50310,51.21704],
+            "since": 2020
+        },
+        {
             "name": "Texas-IX",
             "shortname": "Texas-IX",
             "city": "Texas",
