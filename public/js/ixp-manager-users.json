@@ -661,6 +661,17 @@
             "since": 2019
         },
         {
+            "name": "North Carolina Internet Exchange",
+            "shortname": "NC-IX",
+            "city": "Charlotte, NC",
+            "country": "USA",
+            "cc": "US",
+            "url": "https://members.nc-ix.org/",
+            "ixf_id": null,
+            "gps": [35.222101, -80.836747],
+            "since": 2020
+        },
+        {
             "name": "Northern New England Neutral Internet Exchange",
             "shortname": "NNENIX",
             "city": "Portland",
