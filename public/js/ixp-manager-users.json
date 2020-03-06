@@ -771,6 +771,17 @@
             "since": 2017
         },
         {
+            "name": "Quad Cities Internet Exchange",
+            "shortname": "QCIX",
+            "city": "Davenport, Iowa",
+            "country": "USA",
+            "cc": "US",
+            "url": "https://www.qcix.net/",
+            "ixf_id": null,
+            "gps": [41.548684,-90.620979],
+            "since": 2020
+        },
+        {
             "name": "Rheintal Internet Exchange",
             "shortname": "Rheintal-IX",
             "city": null,
