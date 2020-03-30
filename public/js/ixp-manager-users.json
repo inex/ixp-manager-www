@@ -155,6 +155,17 @@
             "since": 2018
         },
         {
+            "name": "CERN Internet EXchange Point",
+            "shortname": "CIXP",
+            "city": "Geneva",
+            "country": "Switzerland",
+            "cc": "CH",
+            "url": "https://cixp.net/",
+            "ixf_id": 7,
+            "gps": [46.2855919,6.0011287],
+            "since": 2020
+        },
+        {
             "name": "Chicago IX - United Internet Exchange",
             "shortname": "ChIX",
             "city": "Chicago",
