@@ -111,6 +111,17 @@
             "since": 2018
         },
         {
+            "name": "Budapest Internet Exchange",
+            "shortname": "BIX",
+            "city": "Budapest",
+            "country": "Hungary",
+            "cc": "HU",
+            "url": "https://www.bix.hu/",
+            "ixf_id": 12,
+            "gps": [47.518001,19.055443],
+            "since": 2019
+        },
+        {
             "name": "Cameroon Internet Exchange Point",
             "shortname": "CAMIX",
             "city": "Yaounde",
