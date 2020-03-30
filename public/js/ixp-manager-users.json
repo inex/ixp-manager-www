@@ -485,6 +485,17 @@
             "since": 2016
         },
         {
+            "name": "IXP.mk",
+            "shortname": "IXP.mk",
+            "city": "Skopje",
+            "country": "Macedonia",
+            "cc": "MK",
+            "url": "http://ixp.mk/",
+            "ixf_id": 760,
+            "gps": [41.9991964,21.3546795],
+            "since": 2018
+        },
+        {
             "name": "Jakarta Internet Exchange",
             "shortname": "JKT-IX",
             "city": "Jakarta",
