@@ -78,6 +78,17 @@
             "since": 0
         },
         {
+            "name": "Bangladesh Internet Exchange",
+            "shortname": "BDIX",
+            "city": "Dhaka",
+            "country": "Bangladesh",
+            "cc": "BD",
+            "url": "http://bdix.net/",
+            "ixf_id": 109,
+            "gps": [23.7807777,90.3492864],
+            "since": 2018
+        },
+        {
             "name": "Batam Internet Exchange",
             "shortname": "BatamIX",
             "city": "Batam, Kepuluan Riau",
