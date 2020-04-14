@@ -10,6 +10,29 @@
     Barry O&#8217;Donovan and Nick Hilliard (and some friends and supporters of IXP Manager) routinely give talks and workshops on IXP Manager. We&#8217;ve published the more recent ones below and, where video exists, we will also link to that.
 </p>
 
+<h3>2020</h3>
+<br>
+
+<h4>
+    UKNOF 45<br>
+    <small>London, UK. January 15th 2020</small><br>
+    <small>Barry O'Donovan, INEX</small><br>
+
+</h4>
+
+<ul>
+    <li>
+        OAuth for Network Operators
+        [<a href="media/2020/uknof45-202001-oauth-for-netops.pdf">pdf</a>] [<a href="https://youtu.be/j-0zBmXVGME">video</a>]
+        <br><br>
+        A presentation introducing OAuth 2.0 to network operators with a real world example
+        of how we developed <em>Login with PeeringDB</em> support for IXP Manager.
+    </li>
+</ul>
+<br>
+
+
+
 <h3>2019</h3>
 <br>
 

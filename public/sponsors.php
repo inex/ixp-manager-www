@@ -32,12 +32,12 @@
       <a href="http://www.internetsociety.org/">
           <img src="images/logos/isoc.png" width="180" style="margin: 10px;" />
       </a>
-      <a href="https://www.netflix.com/">
+      <!-- a href="https://www.netflix.com/">
           <img src="images/logos/netflix.png" width="180" style="margin: 10px;" />
       </a>
       <a href="https://www.swissix.ch/">
           <img src="images/logos/swissix.png" width="180" style="margin: 10px;" />
-      </a>
+      </a -->
   </div>
 </div>
 
@@ -59,6 +59,9 @@
   <div class="col-sm-8 sponsor-div">
       <a href="https://www.apnic.net/">
           <img src="images/logos/apnic.png" width="120" style="margin: 10px;" />
+      </a>
+      <a href="https://www.cira.ca/">
+          <img src="images/logos/cira.jpg" width="120" style="margin: 10px;" />
       </a>
       <a href="https://www.inx.net.za/">
           <img src="images/logos/inx-za.png" width="120" style="margin: 10px;" />
@@ -86,9 +89,9 @@
           <img src="images/logos/namex.png" width="100" style="margin: 10px;" />
       </a>
       &nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="http://www.uio.no/tjenester/it/nett/fastnett/nix/info-english-short.html">
+      <!-- a href="http://www.uio.no/tjenester/it/nett/fastnett/nix/info-english-short.html">
           <img src="images/logos/nix.png" width="100" style="margin: 10px;" />
-      </a>
+      </a -->
   </div>
 </div>
 
