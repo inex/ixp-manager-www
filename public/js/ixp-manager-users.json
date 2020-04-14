@@ -628,6 +628,17 @@
             "since": 2019
         },
         {
+            "name": "Mauritius Internet eXchange Point",
+            "shortname": "MIXP",
+            "city": "Port Louis",
+            "country": "Mauritius",
+            "cc": "MU",
+            "url": "https://www.mixp.org/",
+            "ixf_id": 546,
+            "gps": [-20.245227, 57.49181],
+            "since": 2020
+        },
+        {
             "name": "Midwest-IX Indianapolis",
             "shortname": "M-IX-Indy",
             "city": "Indianapolis, Indiana",
