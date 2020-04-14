@@ -6,11 +6,20 @@
 
           <h2>Getting Help</h2>
 
-          <h3>Documentation</h3>
+          <h3>Documentation, Presentations and Video Turorials</h3>
 
           <p>
-          All documentation for IXP Manager is linked in the support menu above. There is also a page
-          linked there for presentations and talks which should be quiet useful.
+              Detailed and comprehensive documentation for IXP Manager
+              <a href="https://docs.ixpmanager.org/">can be found here</a>.
+              Please take time to read this documenation before emailing the mailing list.
+          </p>
+          <p>
+              Barry O&#8217;Donovan and Nick Hilliard routinely give talks and workshops on IXP Manager.
+              We've <a href="/presentations">published these here</a> (as well as videos where they exist).
+          </p>
+          <p>
+              Lastly, in April 2020 we started creating some hands-on video tutorials which can be found
+              on <a href="https://www.youtube.com/channel/UCeW2fmMTBtE4fnlmg-2-evA">our YouTube channel</a>.
           </p>
 
           <h3>Mailing Lists</h3>
