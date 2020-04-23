@@ -914,6 +914,17 @@
             "since": 0
         },
         {
+            "name": "Stuttgarter Internet eXchange",
+            "shortname": "Stuttgarter Internet eXchange",
+            "city": "Stuttgart",
+            "country": "Germany",
+            "cc": "DE",
+            "url": "http://www.stuttgart-ix.de/",
+            "ixf_id": 201,
+            "gps": [48.775846, 9.182932],
+            "since": 0
+        },
+        {
             "name": "Somali Internet Exchange Point - Mogadishu",
             "shortname": "SoIXP",
             "city": "Mogadishu",
