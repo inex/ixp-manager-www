@@ -771,6 +771,17 @@
             "since": 0
         },
         {
+            "name": "OhioIX",
+            "shortname": "OhioIX",
+            "city": "Columbus, OH",
+            "country": "USA",
+            "cc": "US",
+            "url": "http://ohioix.net/",
+            "ixf_id": 850,
+            "gps": [40.116491, -83.001985],
+            "since": 2020
+        },
+        {
             "name": "Ottawa Gatineau Internet Exchange",
             "shortname": "OGIX",
             "city": "Ottawa",
