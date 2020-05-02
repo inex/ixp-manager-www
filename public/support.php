@@ -6,7 +6,7 @@
 
           <h2>Getting Help</h2>
 
-          <h3>Documentation, Presentations and Video Turorials</h3>
+          <h3>Documentation, Presentations and Video Tutorials</h3>
 
           <p>
               Detailed and comprehensive documentation for IXP Manager
@@ -19,8 +19,21 @@
           </p>
           <p>
               Lastly, in April 2020 we started creating some hands-on video tutorials which can be found
-              on <a href="https://www.youtube.com/channel/UCeW2fmMTBtE4fnlmg-2-evA">our YouTube channel</a>.
+              on <a href="https://www.youtube.com/channel/UCeW2fmMTBtE4fnlmg-2-evA">our YouTube channel</a>
+              including:
           </p>
+
+          <ol>
+            <li>
+              <a href="https://www.youtube.com/watch?v=U123-E8D-AI">IXP Manager Tutorial 01 - Installation from Automated Script</a>.
+            </li>
+            <li>
+              <a href="https://www.youtube.com/watch?v=qRIl1ioG6Ck">IXP Manager Tutorial 02 - Manual Installation</a>.
+            </li>
+            <li>
+              <a href="https://www.youtube.com/watch?v=Cuox538kFZs">IXP Manager Tutorial 03 - Initial Steps</a>.
+            </li>
+          </ol>
 
           <h3>Mailing Lists</h3>
 
