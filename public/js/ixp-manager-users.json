@@ -430,15 +430,26 @@
             "since": 2008
         },
         {
+            "name": "INEX LAN2",
+            "shortname": "INEX LAN2",
+            "city": "Dublin",
+            "country": "Ireland",
+            "cc": "IE",
+            "url": "https://www.inex.ie/",
+            "ixf_id": 645,
+            "gps": [53.2910921,-6.4153178],
+            "since": 2008
+        },
+        {
             "name": "INEX Cork",
             "shortname": "INEX Cork",
             "city": "Cork",
             "country": "Ireland",
             "cc": "IE",
             "url": "https://www.inex.ie/",
-            "ixf_id": 20,
+            "ixf_id": 1262,
             "gps": [51.9038293,-8.514156],
-            "since": 2008
+            "since": 2016
         },
         {
             "name": "IX-Cape Town at NAPAfrica",
