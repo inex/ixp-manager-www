@@ -370,9 +370,20 @@
             "country": "Greece",
             "cc": "GR",
             "url": "https://www.gr-ix.gr/",
-            "ixf_id": 6,
+            "ixf_id": 752,
             "gps": [38.7820859,21.8064801],
-            "since": 0
+            "since": 2014
+        },
+        {
+            "name": "Greek Internet Exchange",
+            "shortname": "GR-IX Thessaloniki",
+            "city": "Thessaloniki",
+            "country": "Greece",
+            "cc": "GR",
+            "url": "https://www.gr-ix.gr/",
+            "ixf_id": 753,
+            "gps": [40.6212238,22.9285177],
+            "since": 2018
         },
         {
             "name": "Haiti Internet eXchange Point",
