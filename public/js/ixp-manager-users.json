@@ -562,6 +562,17 @@
             "since": 0
         },
         {
+            "name": "KazNIX",
+            "shortname": "KazNIX",
+            "city": "Semey",
+            "country": "Kazakhstan",
+            "cc": "KZ",
+            "url": "https://kaznix.kz/en/",
+            "ixf_id": 768,
+            "gps": [50.4130211,80.2054888],
+            "since": 0
+        },
+        {
             "name": "Kenya Internet Exchange Point",
             "shortname": "KIXP",
             "city": null,
