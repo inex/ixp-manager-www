@@ -111,6 +111,17 @@
             "since": 0
         },
         {
+            "name": "BFD-IX",
+            "shortname": "BFD-IX",
+            "city": "Bradford",
+            "country": "UK",
+            "cc": "UK",
+            "url": "https://bfd-ix.net/",
+            "ixf_id": 855,
+            "gps": [53.7970422,-1.7893796],
+            "since": 0
+        },
+        {
             "name": "Bhutan Internet Exchange",
             "shortname": "btIX",
             "city": "Thimphu",
