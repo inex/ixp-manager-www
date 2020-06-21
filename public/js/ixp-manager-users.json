@@ -738,6 +738,17 @@
             "since": 0
         },
         {
+            "name": "North East Ohio Internet Exchange",
+            "shortname": "NEO-IX",
+            "city": "Fairlawn",
+            "country": "USA",
+            "cc": "US",
+            "url": "http://www.neo-ix.com/",
+            "ixf_id": 862,
+            "gps": [ 41.133097, -81.629367 ],
+            "since": 0
+        },
+        {
             "name": "Neutral Internet Exchange Valencia",
             "shortname": "NIXVAL",
             "city": "Valencia",
